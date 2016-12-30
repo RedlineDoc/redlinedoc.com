@@ -1,32 +1,13 @@
----
-author: redlinedoc
-categories:
-- Commentary
-- Medicine
-- Sometimes it works
-- Universal HealthCare
-date: 2010-10-12T00:00:00Z
-tags:
-- business+ethics
-- ethics
-- fairness
-- FQHC
-- Health+insurance
-- Medicare
-- other+peoples+money
-- poor+insurance
-- poverty
-- risk
-- single+payor
-- underemployed
-- underinsurance
-- underinsured
-- vulnerable
-- work
-title: it couldn't hurt .. or could it
-url: /2010/10/it-couldnt-hurt-or-could-it/
----
++++
+author = "redlinedoc"
+categories = ["Commentary", "Medicine", "Sometimes it works", "Universal HealthCare"]
+date = "2010-10-12T00:00:00+00:00"
+draft = false
+tags = ["business+ethics", "ethics", "fairness", "FQHC", "Health+insurance", "Medicare", "other+peoples+money", "poor+insurance", "poverty", "risk", "single+payor", "underemployed", "underinsurance", "underinsured", "vulnerable", "work"]
+title = "it couldn't hurt .. or could it"
+url = "/2010/10/it-couldnt-hurt-or-could-it/"
 
++++
 I've been watching with interest the current Republican party dance around repeal of the Healthcare insurance legislation just passed.  Its a sad bit of badly made political salad with very little for those who need health insurance, a guaranteed business for the insurance companies (universal sign up), [guaranteed pharma profits (no pharma negotiation) ][1]and extension of the market for about 40% of those who are still uncovered or uninsured.
 
 State legislatures, not to be overlooked are trying their best to carve themselves in our out of the new Heatlhcare bill by blocking advances or by shouting states rights.  With hard economic times, its easy to get voters to hear the shouting but miss the salient points.
