@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Redline Doc</title>
+    <link>http://redlinedoc.com/tags/pop-wuj/index.xml</link>
+    <description>Recent content on Redline Doc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://redlinedoc.com/tags/pop-wuj/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A View From Xela. Implementing FreeMED in Guatemala.</title>
+      <link>http://redlinedoc.com/2010/10/a-view-from-xela-implementing-freemed-in-guatemala/</link>
+      <pubDate>Tue, 12 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://redlinedoc.com/2010/10/a-view-from-xela-implementing-freemed-in-guatemala/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://jbuchbinder.com&#34;&gt;Jeff&lt;/a&gt; and I undertook implementation of &lt;a href=&#34;http://freemedsoftware.org/org/&#34;&gt;FreeMED&lt;/a&gt; an Open Source Electronic Medical Record and practice management system for the &lt;a href=&#34;http://popwujclinic.org/&#34;&gt;Pop-Wuj Clinic&lt;/a&gt;, a primary care, non-profit, free and open clinic in &lt;a href=&#34;http://maps.google.com/maps?f=q&amp;amp;source=s_q&amp;amp;hl=en&amp;amp;q=&amp;amp;vps=5&amp;amp;jsv=282d&amp;amp;sll=37.020098,-95.625&amp;amp;sspn=91.574054,158.027344&amp;amp;ie=UTF8&amp;amp;geocode=Fbxh4gAdWXyL-g&amp;amp;split=0&#34;&gt;Quezeltenango&lt;/a&gt;, Guatemala. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;&amp;quot;http://farm4.static.flickr.com/3149/2907922953_b0f9bf5e0f_d.jpg&#34; alt=&#34;A view of Santa Maria from a quiet street&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The clinic, founded by members of Pop-Wuj Spanish School, (&lt;a href=&#34;http://www.pop-wuj.org/&#34;&gt;http://www.pop-wuj.org/&lt;/a&gt;)  a non-profit school for teaching Spanish language, and &lt;a href=&#34;http://www.weillcornell.org/physician/jstgeorge/index.html&#34;&gt;Dr. Jonathan St. George&lt;/a&gt;, an emergency department physician at Weill Cornell Medical Center . Dr St. George began with a space and a concept and has with coordination with the &lt;a href=&#34;http://www.timmyfoundation.org/&#34;&gt;Timmy Foundation&lt;/a&gt; staffed a regular clinic with a full time physician and assistants, recruited a part time dentist and a part time community physician to work in the clinic.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3027/2559182101_022b949107_d.jpg&#34; alt=&#34;Pop Wuj Clinic on the street&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Students of medicine or allied fields attending Pop-Wuj Spanish Language school assist with chores and triage at the clinic in the morning and then attend their language classes in the afternoon.&lt;/p&gt;
+
+&lt;p&gt;It is planned for the clinic to be self sustaining.  To derive funds, we will offer continuing medical education courses in Travel and International Medicine. the staff, all volunteer, will make the courses available, and the fees used to fund the clinic and operations.  We plan to use Open Source Training tools as a basis for online and study courses both for Pop-Wuj school and for Access Medicine, the teaching wing.  We hope to prove this funding model within three years.&lt;/p&gt;
+
+&lt;p&gt;The installation of &lt;strong&gt;FreeMED&lt;/strong&gt; was not without its problems. Servers donated by &lt;a href=&#34;http://www.sgi.com&#34;&gt;SGI/Rackable Systems &lt;/a&gt; complemented laptops donated by Jeff&amp;#8217;s employer helped get us off the ground. Immediate problems with infrastructure, the system wasn&amp;#8217;t at all grounded coupled with a need for stable power, necessitated the purchase of a UPS to protect the servers.  Difficulty with the structures which are of concrete and re-bar hindered good WIFI transmissions within the building. We capitulated and wired the building for CAT5 (ish). I say “ish”, because the local wire is probably CAT3 maybe. We didn&amp;#8217;t have any interference problems that we could pick up.&lt;/p&gt;
+
+&lt;p&gt;Once hooked up, we split the system for registration, triage, physicians and pharmacy. Registration has been by hand and is transiting well to the electronic system. The intake person has good aptitude with computers and was a quick study with some help. Triage, which is really vital signs and complaint are done by visiting medical students. An immediate difficulty is that the person in this position changes sometimes several times during clinic hours. There is very little regularity and registering each of these people will create some problems. At the moment, we&amp;#8217;re continuing to register each person in the system and privilege them as such. The suggestion, by some, that we create a group without name, is problematic from several standpoints.&lt;/p&gt;
+
+&lt;p&gt;Physician training was minimal because of initial delays in deploying the system. However, I spent time with the physicians and we have enabled remote secure access so that they can use and manoeuvre through the system. For the most part, physicians are not the stumbling block.&lt;/p&gt;
+
+&lt;p&gt;There is a large pharmacy and much of the medication for patients is dispensed from this bank of medications. We did not pre-enter the medications and are still working ways to get some handle on the bulk of and entry of these medications.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://farm5.static.flickr.com/4108/5016001755_048865f4ca_z_d.jpg&#34; alt=&#34;At the Solola outreach&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://farm5.static.flickr.com/4125/5016646688_31a230ceef_d.jpg&#34; alt=&#34;Solola Clinic&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://farm5.static.flickr.com/4151/5016042105_cee7515d92_d.jpg&#34; alt=&#34;Solola Clinic&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://farm5.static.flickr.com/4154/5016057385_895a710e3d_z_d.jpg&#34; alt=&#34;Dentistry in the Pueblos&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The dental portion of &lt;strong&gt;FreeMED&lt;/strong&gt; will be implemented once the medical is stable and in use. &lt;strong&gt;FreeMED&lt;/strong&gt; continues to evolve. There were some specific changes made to accommodate the needs of this clinic and its staff. We hope to have some hard statistics from the program by mid year with full integration of the old (paper) medical records. The &lt;a href=&#34;http://www.fujitsu.com&#34;&gt;Fujitsu corporation&lt;/a&gt; has donated scanners which will enable us to port paper records into the system.&lt;/p&gt;
+
+&lt;p&gt;Once we have fully implemented &lt;strong&gt;FreeMED&lt;/strong&gt; in the clinic, we hope to add Android capability to the Xela system, allowing for remote access as well as telemedicine conferencing.  The Android capability, already built into &lt;strong&gt;FreeMED&lt;/strong&gt; permits recording and transcribing of teleconferences directly to the medical record. Other Android features are planned. &lt;strong&gt;FreeMED&lt;/strong&gt; does work seamlessly to provide access by Android to appointment and other portions of the system including the internal messaging system.  There are other anticipated donations of medical equipment including monitors to the clinic. Those too are planned to be integrated using the SHIM portion of &lt;strong&gt;FreeMED.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;FreeMED&lt;/strong&gt; is an opensource GPL-licensed product, in use worldwide. &lt;strong&gt;FreeMED&lt;/strong&gt; recently announced the release of the 0.9.0 beta version. More information is available through the &lt;a href=&#34;http://www.freemedsoftware.org&#34;&gt;FreeMED website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you are interested in helping with the clinic either by donation of time, energy,  equipment or monies, please contact donations at popwujclinic dot org    Another trip to the clinic is planned for May. If you have an interest in international or travel medicine and wish to contribute by taking the offered courses and /or &lt;a href=&#34;http://www.popwujclinic.org/&#34;&gt;contribute expertise contact&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Xela and more on the 19th</title>
+      <link>http://redlinedoc.com/2010/09/xela-and-more-on-the-19th/</link>
+      <pubDate>Mon, 27 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://redlinedoc.com/2010/09/xela-and-more-on-the-19th/</guid>
+      <description>&lt;p&gt;Hola!&lt;/p&gt;
+
+&lt;p&gt;We have arrived.  The medical brigade to Pop-Wuj has landed. We arrived on different flights but managed to coordinate being in the same part of the air terminal.  Customs went very smoothly although one of the bags with the primary server didn&amp;rsquo;t make it; it will be found an delivered soon (probably a mix up at Miami-Dade airport).&lt;/p&gt;
+
+&lt;p&gt;Out goal. Set up &lt;a href=&#34;http://freemedsoftware.org&#34; title=&#34;FreeMED, Open Source Medical Record &#34;&gt;FreeMED&lt;/a&gt; for use in the &lt;a href=&#34;http://popwujaccess.org&#34; title=&#34;Pop-Wuj Medical Clinic &#34;&gt;Pop-Wuj&lt;/a&gt; Clinic.  The crew this week is here to work the medical clinic, assist Dr. Meg Sullivan, the clinic director and install and fire test FreeMED as well as transfer as much of the medical records as possible.&lt;/p&gt;
+
+&lt;p&gt;Our bus met us at the airport and quickly loaded the crew and luggage. Its a four plus hour trip from &lt;a href=&#34;http://maps.google.com/maps?f=q&amp;amp;source=s_q&amp;amp;hl=en&amp;amp;q=&amp;amp;ie=UTF8&amp;amp;geocode=FVX73gAdkoqa-g&amp;amp;split=0&#34;&gt;Guatemala City&lt;/a&gt; to &lt;a href=&#34;http://maps.google.com/maps?f=q&amp;amp;source=s_q&amp;amp;hl=en&amp;amp;q=&amp;amp;vps=1&amp;amp;jsv=277b&amp;amp;sll=14.613817,-90.532837&amp;amp;sspn=0.069931,0.111322&amp;amp;ie=UTF8&amp;amp;geocode=FfG24QAdcoqI-g&amp;amp;split=0&#34;&gt;Quetzeltenango&lt;/a&gt;, more often referred to by its &lt;a href=&#34;http://en.wikipedia.org/wiki/K&#39;iche&#39;_language&#34; title=&#34;Quiche&#34;&gt;K&amp;rsquo;iche&amp;rsquo;  or Quiche&lt;/a&gt; name, &lt;a href=&#34;http://en.wikipedia.org/wiki/Quetzaltenango&#34; title=&#34;Xela&#34;&gt;Xela&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Many of you may have read of &lt;a href=&#34;http://www.bbc.co.uk/news/world-latin-america-11208807&#34; title=&#34;Guatemalan Mudslides&#34;&gt;mudslides in the Guatemalan Highlands&lt;/a&gt;. The roads show evidence of the slides with many washouts of the roadway.   There were active drops with the busdriver, doing his usual Monte Carlo style driving weaving in and out of one way and two way highway areas on CA1-WEST.&lt;/p&gt;
+
+&lt;p&gt;We stopped to eat lunch along the way at a small restaurant nestled in the highlands. There I have my first coordinated pictures of the the team, minus me at this point. The lunch was a variety of foods common in the region, a bit more that we would normally have done for an interim meal, but satisfying.  Back on the bus for the last 2 &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2&lt;/sub&gt;  hours into Xela we arrived about 6pm local time.  Most of us are at &lt;a href=&#34;http://www.comeseeit.com/&#34;&gt;Casa Manen&lt;/a&gt;, a local bed and breakfast.  &lt;a href=&#34;http://www.facebook.com/profile.php?id=9025787&#34;&gt;Shelley&lt;/a&gt; chose, as I will next week, to live with a Spanish family.  We dropped Shelley at Pop-Wuj and will rejoin with her in the morning.&lt;/p&gt;
+
+&lt;p&gt;Because of the two hour time shift to Guatemalan time, although we&amp;rsquo;re all a bit wasted from the trip and the planes and leaving New York at 4AM its only 8 local time.  The crew goes to a local restaurant over looking the Plaza for some sit down and group building.   We&amp;rsquo;re all pretty revved about the morning and the week to come.&lt;/p&gt;
+
+&lt;p&gt;Bed time, well room time about 10pm in Xela.  These blogs will be about 1 day off because of the local time changes, but I hope to have more pictures and more local interest shortly.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Xela and the clinic  the 21st</title>
+      <link>http://redlinedoc.com/2010/09/xela-and-the-clinic-the-21st/</link>
+      <pubDate>Fri, 24 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://redlinedoc.com/2010/09/xela-and-the-clinic-the-21st/</guid>
+      <description>&lt;p&gt;Sorry for the long delay out there but there have  been some connection problems as well as difficulties uploading photos to FLICKR so that they won&amp;rsquo;t take up all the room in the world.  Tuesday was clinic day at Pop-Wuj in the city.  The line up for clinic is not unlike that at &lt;a href=&#34;http://www.chshartford.og&#34;&gt;CHS.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;As a clinician I tail around one of the local doctors, Dr. Christian.  He works Tuesday, Wednesday and Thursday&amp;rsquo;s at the clinic and does a small wound clinic on Tuesday and Friday mornings.  Although there are many out-clinics, helping in the pueblos, the clinic here is run regularly and the out clinics when there are volunteers or students to help with managing the &amp;lsquo;stuff&amp;rsquo; of setting up a clinic away from a home base.&lt;/p&gt;
+
+&lt;p&gt;The most surprising and yet elemental thing for me is the similarity of the patients here and at home.  Our first wound care was an ulcer caused by a hot water burn. She has a fluid load and some swelling as well as some mild but growing venous stasis.  Wound care here is much the same, debridement, support.&lt;/p&gt;
+
+&lt;p&gt;Our next, came without her support hose&lt;span&gt;.  &amp;rdquo;I left them at home today&amp;rdquo;, she said. When challenged about wearing the stockings regularly &amp;#8211; she doesn&amp;rsquo;t. They itch in the late day when the sun is up and out. I gave her a strategy to wear them only in the morning.  She laughs, the way my patients in the states do.  Dr. Christian and I exchange a knowing glance. She might.  She gives us both kisses and warm handshakes.  Its all the same. &lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;More patients. There are a lot of musculoskeletal complaints here. People use their bodies as handcarts. From the women who cary 20-30kg loads on their heads to the men who carry 100kg sacks of dirt or stone or concrete on their backs using a headband, the difficulties are related to a harsh life here. None of that is evidenced in the clinic &amp;#8211; they are all grateful to have care. No one pushes. No one shoves. There are children everywhere and most of them a bit bashful.  Being nearly &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;3&lt;/sub&gt; taller than most I look rather giant to most of them.&lt;/p&gt;
+
+&lt;p&gt;The line trickles in and in two rooms with some seen on the cuff, we see 63 patients in about 5 hours. The care? First rate given some of the limitations.  There is no EKG.  Blood pressure monitoring is done in a clinic where you can scarcely hear yourself let alone small variations in sound. Medicine is, for the most part donated and solves many of the problems.  There isn&amp;rsquo;t much polypharmacy here. Even older folks walk nearly everywhere.&lt;/p&gt;
+
+&lt;p&gt;We are trying to install &lt;a href=&#34;http://www.freemedsoftware.org&#34;&gt;FreeMED&lt;/a&gt; but the problems not forseen are overwhelming.  Although there are three pronged outlets in the clinic, none are really grounded.  Wiring to light fixtures appears as if done with bell wire. The WIFI unit in the school isn&amp;rsquo;t readily accessible (a minor problem). The clinic too needs some reorganization. A lot of donated stuff has been in boxes awaiting trained and eager hands to triage (yup triage) the medications. Overall it gets done.  Our primary server got mis directed in baggage and we&amp;rsquo;re waiting for it to be delivered. The secondary waits.&lt;/p&gt;
+
+&lt;p&gt;Jeff and I are staying at a Bed&amp;amp;Breakfast called &lt;a href=&#34;http://www.comeseeit.com&#34;&gt;Casa Manen&lt;/a&gt;, about a mile (all uphill) from the clinic. We&amp;rsquo;re getting used to the altitude, about 8500 ft here in Xela.&lt;/p&gt;
+
+&lt;p&gt;Tomorrow we go to an outlying clinic about &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;3&lt;/sub&gt; of the way to Guatemala City to deliver health care to a small pueblo. We&amp;rsquo;ll be mounting the entire team plus medical students who are here to learn Spanish at Pop-Wuj. There&amp;rsquo;s a lot of preparation and Jeff is going to look at the organization from a systems perspective to get better grounded to bring the records out side the clinic.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

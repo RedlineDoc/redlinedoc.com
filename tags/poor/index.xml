@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Redline Doc</title>
+    <link>http://redlinedoc.com/tags/poor/index.xml</link>
+    <description>Recent content on Redline Doc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://redlinedoc.com/tags/poor/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A View From Xela. Implementing FreeMED in Guatemala.</title>
+      <link>http://redlinedoc.com/2010/10/a-view-from-xela-implementing-freemed-in-guatemala/</link>
+      <pubDate>Tue, 12 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://redlinedoc.com/2010/10/a-view-from-xela-implementing-freemed-in-guatemala/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://jbuchbinder.com&#34;&gt;Jeff&lt;/a&gt; and I undertook implementation of &lt;a href=&#34;http://freemedsoftware.org/org/&#34;&gt;FreeMED&lt;/a&gt; an Open Source Electronic Medical Record and practice management system for the &lt;a href=&#34;http://popwujclinic.org/&#34;&gt;Pop-Wuj Clinic&lt;/a&gt;, a primary care, non-profit, free and open clinic in &lt;a href=&#34;http://maps.google.com/maps?f=q&amp;amp;source=s_q&amp;amp;hl=en&amp;amp;q=&amp;amp;vps=5&amp;amp;jsv=282d&amp;amp;sll=37.020098,-95.625&amp;amp;sspn=91.574054,158.027344&amp;amp;ie=UTF8&amp;amp;geocode=Fbxh4gAdWXyL-g&amp;amp;split=0&#34;&gt;Quezeltenango&lt;/a&gt;, Guatemala. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;&amp;quot;http://farm4.static.flickr.com/3149/2907922953_b0f9bf5e0f_d.jpg&#34; alt=&#34;A view of Santa Maria from a quiet street&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The clinic, founded by members of Pop-Wuj Spanish School, (&lt;a href=&#34;http://www.pop-wuj.org/&#34;&gt;http://www.pop-wuj.org/&lt;/a&gt;)  a non-profit school for teaching Spanish language, and &lt;a href=&#34;http://www.weillcornell.org/physician/jstgeorge/index.html&#34;&gt;Dr. Jonathan St. George&lt;/a&gt;, an emergency department physician at Weill Cornell Medical Center . Dr St. George began with a space and a concept and has with coordination with the &lt;a href=&#34;http://www.timmyfoundation.org/&#34;&gt;Timmy Foundation&lt;/a&gt; staffed a regular clinic with a full time physician and assistants, recruited a part time dentist and a part time community physician to work in the clinic.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3027/2559182101_022b949107_d.jpg&#34; alt=&#34;Pop Wuj Clinic on the street&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Students of medicine or allied fields attending Pop-Wuj Spanish Language school assist with chores and triage at the clinic in the morning and then attend their language classes in the afternoon.&lt;/p&gt;
+
+&lt;p&gt;It is planned for the clinic to be self sustaining.  To derive funds, we will offer continuing medical education courses in Travel and International Medicine. the staff, all volunteer, will make the courses available, and the fees used to fund the clinic and operations.  We plan to use Open Source Training tools as a basis for online and study courses both for Pop-Wuj school and for Access Medicine, the teaching wing.  We hope to prove this funding model within three years.&lt;/p&gt;
+
+&lt;p&gt;The installation of &lt;strong&gt;FreeMED&lt;/strong&gt; was not without its problems. Servers donated by &lt;a href=&#34;http://www.sgi.com&#34;&gt;SGI/Rackable Systems &lt;/a&gt; complemented laptops donated by Jeff&amp;#8217;s employer helped get us off the ground. Immediate problems with infrastructure, the system wasn&amp;#8217;t at all grounded coupled with a need for stable power, necessitated the purchase of a UPS to protect the servers.  Difficulty with the structures which are of concrete and re-bar hindered good WIFI transmissions within the building. We capitulated and wired the building for CAT5 (ish). I say “ish”, because the local wire is probably CAT3 maybe. We didn&amp;#8217;t have any interference problems that we could pick up.&lt;/p&gt;
+
+&lt;p&gt;Once hooked up, we split the system for registration, triage, physicians and pharmacy. Registration has been by hand and is transiting well to the electronic system. The intake person has good aptitude with computers and was a quick study with some help. Triage, which is really vital signs and complaint are done by visiting medical students. An immediate difficulty is that the person in this position changes sometimes several times during clinic hours. There is very little regularity and registering each of these people will create some problems. At the moment, we&amp;#8217;re continuing to register each person in the system and privilege them as such. The suggestion, by some, that we create a group without name, is problematic from several standpoints.&lt;/p&gt;
+
+&lt;p&gt;Physician training was minimal because of initial delays in deploying the system. However, I spent time with the physicians and we have enabled remote secure access so that they can use and manoeuvre through the system. For the most part, physicians are not the stumbling block.&lt;/p&gt;
+
+&lt;p&gt;There is a large pharmacy and much of the medication for patients is dispensed from this bank of medications. We did not pre-enter the medications and are still working ways to get some handle on the bulk of and entry of these medications.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://farm5.static.flickr.com/4108/5016001755_048865f4ca_z_d.jpg&#34; alt=&#34;At the Solola outreach&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://farm5.static.flickr.com/4125/5016646688_31a230ceef_d.jpg&#34; alt=&#34;Solola Clinic&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://farm5.static.flickr.com/4151/5016042105_cee7515d92_d.jpg&#34; alt=&#34;Solola Clinic&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://farm5.static.flickr.com/4154/5016057385_895a710e3d_z_d.jpg&#34; alt=&#34;Dentistry in the Pueblos&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The dental portion of &lt;strong&gt;FreeMED&lt;/strong&gt; will be implemented once the medical is stable and in use. &lt;strong&gt;FreeMED&lt;/strong&gt; continues to evolve. There were some specific changes made to accommodate the needs of this clinic and its staff. We hope to have some hard statistics from the program by mid year with full integration of the old (paper) medical records. The &lt;a href=&#34;http://www.fujitsu.com&#34;&gt;Fujitsu corporation&lt;/a&gt; has donated scanners which will enable us to port paper records into the system.&lt;/p&gt;
+
+&lt;p&gt;Once we have fully implemented &lt;strong&gt;FreeMED&lt;/strong&gt; in the clinic, we hope to add Android capability to the Xela system, allowing for remote access as well as telemedicine conferencing.  The Android capability, already built into &lt;strong&gt;FreeMED&lt;/strong&gt; permits recording and transcribing of teleconferences directly to the medical record. Other Android features are planned. &lt;strong&gt;FreeMED&lt;/strong&gt; does work seamlessly to provide access by Android to appointment and other portions of the system including the internal messaging system.  There are other anticipated donations of medical equipment including monitors to the clinic. Those too are planned to be integrated using the SHIM portion of &lt;strong&gt;FreeMED.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;FreeMED&lt;/strong&gt; is an opensource GPL-licensed product, in use worldwide. &lt;strong&gt;FreeMED&lt;/strong&gt; recently announced the release of the 0.9.0 beta version. More information is available through the &lt;a href=&#34;http://www.freemedsoftware.org&#34;&gt;FreeMED website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you are interested in helping with the clinic either by donation of time, energy,  equipment or monies, please contact donations at popwujclinic dot org    Another trip to the clinic is planned for May. If you have an interest in international or travel medicine and wish to contribute by taking the offered courses and /or &lt;a href=&#34;http://www.popwujclinic.org/&#34;&gt;contribute expertise contact&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>At the end of all things.</title>
+      <link>http://redlinedoc.com/2010/03/at-the-end-of-all-things/</link>
+      <pubDate>Thu, 18 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://redlinedoc.com/2010/03/at-the-end-of-all-things/</guid>
+      <description>&lt;p&gt;Sad faces. Sad days. We see the poorest of the poor at my&lt;a href=&#34;http://chshartford.org&#34;&gt; health center&lt;/a&gt;. Its a magnet for those who have nowhere else. We will see them. We do see them. We patch them up. We send them back into the fray, the madness that has become our world in the &lt;a href=&#34;http://en.wikipedia.org/wiki/Neighborhoods_of_Hartford,_Connecticut&#34;&gt;north end of Hartford, Connecticut, &lt;/a&gt;only miles from the richest squares of land in the country. The disparity is at once engaging and maddening.&lt;/p&gt;
+
+&lt;p&gt;Some days ago a new face appeared in my care. Ragged on the edges, worn but still under the veneer of the street, a once proud person. She tells me she worked all her life, perhaps 40 years or more, receives &lt;a href=&#34;http://www.ssa.gov/planners/calculators.htm&#34;&gt;Social Security&lt;/a&gt;, a pittance because she worked at one of the many downtown retail stores, making ends meet, and saving for retirement through a store plan. Prior to mall-ville, Hartford, as did many other cities, house a plethora of stores from &lt;a href=&#34;http://manuscripts.wordpress.com/category/g-fox-co/&#34;&gt;upscale department &lt;/a&gt;to&lt;a href=&#34;http://manuscripts.wordpress.com/category/g-fox-co/&#34;&gt; jewelry&lt;/a&gt; and electronic palaces. It was a mecca in its time. These folks and hundreds, nay thousands like them retired to small owned homes in the north end. Clean. Neat. A neighborhood in constant transition but with ties to religious and community organizations.  Then came &lt;a href=&#34;http://www.dailyfinance.com/story/fraud-files-enrons-jeffrey-skilling-says-we-shouldnt-expect-e/19379616/&#34;&gt;Mr Skilling&lt;/a&gt; and his ilk.&lt;/p&gt;
+
+&lt;p&gt;Not content to raid the coffers of the gamblers of Wall Street, these folks conspired to use as tokens at the gambling tables the funds-in-trust for retirements. Now gone. Bankrupted. Disappeared.&lt;/p&gt;
+
+&lt;p&gt;She tells me that she couldn&amp;#8217;t afford the taxes on the house. Predators always scent prey in the winds of fortune. In her case it was a &amp;#8216;remortgage&amp;#8217; that promised to &amp;#8216;clear up the debt.&amp;#8217;  She lives in her car, however long that will last. She has no relatives in the area but has her &amp;#8216;church&amp;#8217; and her &amp;#8216;friends&amp;#8217; who don&amp;#8217;t know and she sent me a gimlet stare to let me know that I shouldn&amp;#8217;t consider letting them know.&lt;/p&gt;
+
+&lt;p&gt;So here we are at the &lt;a href=&#34;http://www.wowhead.com/?quest=12779&#34;&gt;end of all things&lt;/a&gt;, accomplishing the American dream, living in our car.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Turfed too</title>
+      <link>http://redlinedoc.com/2009/08/turfed-too/</link>
+      <pubDate>Sat, 22 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://redlinedoc.com/2009/08/turfed-too/</guid>
+      <description>&lt;p&gt;It amazes me that in the land of&lt;a href=&#34;http://www.nytimes.com/2007/08/12/opinion/12sun1.html&#34;&gt; the best healthcare&lt;/a&gt; we&amp;rsquo;re more in the business of denying care than providing it.&lt;/p&gt;
+
+&lt;p&gt;I get a call the other day that a kid has stepped on a piece of glass. Its off hours but I say &amp;ldquo;sure, bring him in, I&amp;rsquo;ll take a look&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;A pale frightened 13y/o arrives at the clinic with parents. Apparently yesterday he jumped up off a picnic table (in the way that 13 year old males do) and sprang directly onto a wine glass lying on the ground. The glass shattered into the bottom of his foot. The parents, correctly, take him to the nearest emergency room. He waits approximately 3 &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2&lt;/sub&gt; hours since its &amp;ldquo;only a bleeding foot&amp;rdquo;. Xrays show glass in the wound and the physician diagnoses tendon injuries to the tendons of the toes. Ahh, you say, a case for the surgeons.&lt;/p&gt;
+
+&lt;p&gt;Not so fast. He has a state option child health insurance. They sew up the foot (with the glass inside) and direct him to a private practice clinic the following day. He continues to bleed, slowly, through the night. Mom and dad pack him off to the local recommended doctor only to find that he (nor most others) do not accept this insurance. They are tempted to return to the emergency room but call me.&lt;/p&gt;
+
+&lt;p&gt;He cannot be treated here. He needs advanced care which we cannot offer to him. I make some calls with the assistance of our pediatrician. He&amp;rsquo;s transferred to a tertiary care facility. By 4PM he&amp;rsquo;s in an operating room and being cared for.&lt;/p&gt;
+
+&lt;p&gt;What went wrong? Why didn&amp;rsquo;t the emergency room transfer him inter-hospital when they realized they had a severe injury they couldn&amp;rsquo;t handle? Why did they refer him through out patient when clearly there was no real outpatient option?&lt;/p&gt;
+
+&lt;p&gt;Insurance. When the insurance pays so poorly that even the most basic of services are covered but lose money, then the hospitals, left to chose to bleed monies or to restrict services chose the latter. In the land of &amp;#8216;the best healthcare&amp;rdquo; we are forced into rationing that healthcare based not on need, not on priorities but on the needs of the stockholders of insurance companies.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Again and again</title>
+      <link>http://redlinedoc.com/2009/08/again-and-again/</link>
+      <pubDate>Thu, 13 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://redlinedoc.com/2009/08/again-and-again/</guid>
+      <description>&lt;p&gt;Why can&amp;rsquo;t we pay for health care for everyone? Why is it that is this country we have such a divide? Is it our puritanical upbringing which says work hard and you&amp;rsquo;ll get your rewards?&lt;/p&gt;
+
+&lt;p&gt;Sadly folks, the Puritan&amp;rsquo;s didn&amp;rsquo;t have it all that wonderfully. Life was hard but it was short. There were no antibiotics, no x-rays, no casts, no real surgery (with anesthesia). Hospitals were to be avoided as pest houses and physicians themselves at the time knew they did little for their patients. Some cures were probably worse than the diseases.&lt;/p&gt;
+
+&lt;p&gt;If we have modernized medicine, why can&amp;rsquo;t we modernize the way we provide care for our citizens. Why do we in the land of the brave, home of the free, live with a 3rd world medical care system. Sure people come here. The Sultan of Brunei came here and got wonderful care. M. D., a fictional name, in the north end of Hartford got &lt;a href=&#34;Http://www.urbandictionary.com/define.php?term=turfed&#34;&gt;turfed&lt;/a&gt;. Hmmm. Would the divide and provision of care have to do with money?&lt;/p&gt;
+
+&lt;p&gt;Indeed it does. The wheels grind exceeding slowly for those with limited funding.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>All the Michaels are dead...</title>
+      <link>http://redlinedoc.com/2009/08/all-the-michaels-are-dead/</link>
+      <pubDate>Thu, 13 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://redlinedoc.com/2009/08/all-the-michaels-are-dead/</guid>
+      <description>&lt;p&gt;How did we allow the discussion to move away from health to how we should save the health insurance industry? How did that conversation move from a public healthy option to saving the profits of some of the most profitable companies in the world?&lt;/p&gt;
+
+&lt;p&gt;As there is increasing &lt;a href=&#34;http://sensen-no-sen.blogspot.com/2009/07/health-care-oligopoly-and-real-weight.html&#34;&gt;talk in Washington about the AMA &lt;/a&gt; time clicks by. And to whom are the insurance companies responsible? Ahhh shareholders, the same folks who brought us the current bank debacle, to whom we the people pay extravagant sums so that they can support CEO&amp;rsquo;s in a style to which they&amp;rsquo;d like to become accustomed. As there is continued agglomeration of insurers, they flock together, eat each other, thereby decreasing real market competition, in the guise of bringing lower cost to the consumer.&lt;/p&gt;
+
+&lt;p&gt;In medicine we speak for the patient. In insurance they speak for the money. There&amp;rsquo;s an inherent split here. When it comes down to it, shall we authorize care OR shall we make 0.02 for the stockholder, the stockholder and CEO options always win out. Duplicity is the name of the game. When &lt;a href=&#34;http://www.nhc.noaa.gov/1992andrew.html&#34;&gt;Hurricane Andrew&lt;/a&gt; roared across the South Florida Peninsula devastating the area. Aetna group was the major insurer holding more than 4 billion dollars in losses. That past year they golden parachuted their worthy CEO for 987 MILLION dollars (or there abouts) and then cried the blues that they didn&amp;rsquo;t have monies for claims. Hmmmm&lt;/p&gt;
+
+&lt;p&gt;I personally have run into the dealings of insurers. Serveral years ago one of the Connecticut health insurers sent out a note that all billing should henceforth be sent to a POB in Enfield. We all did send claims there and as weeks went by and no claims information was forthcoming, we were told that the claims were lost or that they should be re-submitted. Whoops. Someone bad in the company made an error and there is no POB in Enfield for our claims. We&amp;rsquo;re really sorry but you&amp;rsquo;ll have to re-submit them all over again. Hmmmm&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve had several friends who&amp;rsquo;ve suffered death at the hands of insurers, not in any direct sort of way but the usual games playing with existing conditions and difficult to access portals.&lt;/p&gt;
+
+&lt;p&gt;Working in a safety net group we see patients bounced from one provider to another, mostly based on non paying insurances. I think most of us are insulted when the insurers talk about the Medicare program, and how it fails to work. It succeeds with a 5% overhead, a draconian fraud unit, and coverage that most of us envy. Are there faults? Are there fixes to be made? Of course. We can in one swoop, make our system succeed. It needs a government backed program, devoid of usurious profits, not socialism, just good medicine.&lt;/p&gt;
+
+&lt;p&gt;We need to recenter the discussion, not about death notes but about how to prevent the needless deaths from an unwieldy bloated system which spends much of its monies not on patient well being but on corporate well being. Straight speak or soon, &lt;a href=&#34;http://www.imdb.com/title/tt0066495/&#34;&gt;all the Michaels&lt;/a&gt; will be dead&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>From My Window</title>
+      <link>http://redlinedoc.com/2009/07/from-my-window/</link>
+      <pubDate>Mon, 20 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://redlinedoc.com/2009/07/from-my-window/</guid>
+      <description>&lt;p&gt;Its sometimes a sad view, a view of contrasts, a view of contradictions, a view of humanity.  I look out into the swirl of mad colors, through the colors of people, through the colors of spring turned summer, through the bright signs to the monochrome lives of the poor on our block.&lt;/p&gt;
+
+&lt;p&gt;She must be 15, maybe. She swirls out the door of the rattrap that functions as home slamming the door, wearing nothing to deceive the immagination. She would be pretty but she has mean and hungry eyes.  They aren&amp;rsquo;t child eyes of wonder, that luster long gone. The inquisitiveness of memory is locked away. Hunger. Money. Use me. Now.&lt;/p&gt;
+
+&lt;p&gt;She clambers to a car, her high heels a misery to satisfy yet another customer. Hunger. Money. Use me. Now.  They are off but it is not long that she appears again, on the street, long legs up and down the block this child lost grown too fast.  And yet again in but a few minutes she is gone from sight. Hunger. Money. Use me. Now.&lt;/p&gt;
+
+&lt;p&gt;And so this long afternoon progresses. From time to time, as we all do, I look out my window at some block familiars and some I haven&amp;rsquo;t and will probably never again see.  They are all hungry. All waiting.  And then she appears but in new colors and new shoes, striding out with her hard child-long-gone eyes.&lt;/p&gt;
+
+&lt;p&gt;I see her walk down the block. A throw away child.  I doubt that there is a want ad which reads &amp;ldquo;Join the fun life, you too can be a street prostitute at 15&amp;rdquo;.  Yet. There she is.&lt;/p&gt;
+
+&lt;p&gt;Hungry. Money. Use me. Now.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Its Monday -- everybody works on Monday</title>
+      <link>http://redlinedoc.com/2009/07/its-monday-everybody-works-on-monday/</link>
+      <pubDate>Wed, 08 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://redlinedoc.com/2009/07/its-monday-everybody-works-on-monday/</guid>
+      <description>&lt;p&gt;That line from the movie &amp;ldquo;Dave&amp;rdquo; would be poignant if it were not so sad here . Most of the people I see want to work &amp;ndash; but there is no work. &amp;ldquo;Work was something that used to exist&amp;rdquo; &amp;ndash; Jean Sheppard &amp;ndash; and he was talking about the &amp;ldquo;Great Depression&amp;rdquo;. Alas it was neither great nor did we learn from it. But I digress.&lt;/p&gt;
+
+&lt;p&gt;Yesterday one of my patients arrived all smiles and cheery; yes.. he just got a job. A real job in a field (food service) he wanted to work in. There&amp;rsquo;s something radiant about someone who just got a job, a glow and an aura about them. He had been jobless for nearly 1 &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2&lt;/sub&gt; years, looking looking but not finding much of anything. A sniff a lead and he was overjoyed.&lt;/p&gt;
+
+&lt;p&gt;I hear much talk about how the poor make themselves that way. I see something quite different. I go to the stores in the neighborhood where change is made poorly and incorrectly. At first I thought this an oversight but it happens so frequently that I realized that this is a way of doing business to increase profits, since many don&amp;rsquo;t check the change. There is loansharking for food, an egregious plot on the poor where 30$ in groceries on Thursday becomes 60$ (or more) on Monday. It doesn&amp;rsquo;t need much enforcement since there really isn&amp;rsquo;t much alternative place to go. Additionally the stores carry such small cans of items (2 ravioli in a can), that the prices end up enormous for minimal nutritional value.&lt;/p&gt;
+
+&lt;p&gt;Work is hard to find in this poor urban area. Transportation is available but not always convenient. There are dangers, the indolent prey on the poor. There aren&amp;rsquo;t many but ripoffs and knockdowns occur regularly. Most people travel with one hand free.&lt;/p&gt;
+
+&lt;p&gt;My guy. All smiles. He&amp;rsquo;s looking forward to work. I think most are. Its depressing being marked &amp;ldquo;poor&amp;rdquo; and then no places to work. Poor areas become poorer. Business shys away from the area. Poor areas become poorer yet. The spiral continues.&lt;/p&gt;
+
+&lt;p&gt;I wish that all the folks here could feel the joy &amp;ndash; pleasure &amp;ndash; of work, of a job.&lt;/p&gt;
+
+&lt;p&gt;Its Monday. Everyone SHOULD work on Monday&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

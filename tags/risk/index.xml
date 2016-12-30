@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Redline Doc</title>
+    <link>http://redlinedoc.com/tags/risk/index.xml</link>
+    <description>Recent content on Redline Doc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://redlinedoc.com/tags/risk/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A View From Xela. Implementing FreeMED in Guatemala.</title>
+      <link>http://redlinedoc.com/2010/10/a-view-from-xela-implementing-freemed-in-guatemala/</link>
+      <pubDate>Tue, 12 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://redlinedoc.com/2010/10/a-view-from-xela-implementing-freemed-in-guatemala/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://jbuchbinder.com&#34;&gt;Jeff&lt;/a&gt; and I undertook implementation of &lt;a href=&#34;http://freemedsoftware.org/org/&#34;&gt;FreeMED&lt;/a&gt; an Open Source Electronic Medical Record and practice management system for the &lt;a href=&#34;http://popwujclinic.org/&#34;&gt;Pop-Wuj Clinic&lt;/a&gt;, a primary care, non-profit, free and open clinic in &lt;a href=&#34;http://maps.google.com/maps?f=q&amp;amp;source=s_q&amp;amp;hl=en&amp;amp;q=&amp;amp;vps=5&amp;amp;jsv=282d&amp;amp;sll=37.020098,-95.625&amp;amp;sspn=91.574054,158.027344&amp;amp;ie=UTF8&amp;amp;geocode=Fbxh4gAdWXyL-g&amp;amp;split=0&#34;&gt;Quezeltenango&lt;/a&gt;, Guatemala. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;&amp;quot;http://farm4.static.flickr.com/3149/2907922953_b0f9bf5e0f_d.jpg&#34; alt=&#34;A view of Santa Maria from a quiet street&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The clinic, founded by members of Pop-Wuj Spanish School, (&lt;a href=&#34;http://www.pop-wuj.org/&#34;&gt;http://www.pop-wuj.org/&lt;/a&gt;)  a non-profit school for teaching Spanish language, and &lt;a href=&#34;http://www.weillcornell.org/physician/jstgeorge/index.html&#34;&gt;Dr. Jonathan St. George&lt;/a&gt;, an emergency department physician at Weill Cornell Medical Center . Dr St. George began with a space and a concept and has with coordination with the &lt;a href=&#34;http://www.timmyfoundation.org/&#34;&gt;Timmy Foundation&lt;/a&gt; staffed a regular clinic with a full time physician and assistants, recruited a part time dentist and a part time community physician to work in the clinic.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3027/2559182101_022b949107_d.jpg&#34; alt=&#34;Pop Wuj Clinic on the street&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Students of medicine or allied fields attending Pop-Wuj Spanish Language school assist with chores and triage at the clinic in the morning and then attend their language classes in the afternoon.&lt;/p&gt;
+
+&lt;p&gt;It is planned for the clinic to be self sustaining.  To derive funds, we will offer continuing medical education courses in Travel and International Medicine. the staff, all volunteer, will make the courses available, and the fees used to fund the clinic and operations.  We plan to use Open Source Training tools as a basis for online and study courses both for Pop-Wuj school and for Access Medicine, the teaching wing.  We hope to prove this funding model within three years.&lt;/p&gt;
+
+&lt;p&gt;The installation of &lt;strong&gt;FreeMED&lt;/strong&gt; was not without its problems. Servers donated by &lt;a href=&#34;http://www.sgi.com&#34;&gt;SGI/Rackable Systems &lt;/a&gt; complemented laptops donated by Jeff&amp;#8217;s employer helped get us off the ground. Immediate problems with infrastructure, the system wasn&amp;#8217;t at all grounded coupled with a need for stable power, necessitated the purchase of a UPS to protect the servers.  Difficulty with the structures which are of concrete and re-bar hindered good WIFI transmissions within the building. We capitulated and wired the building for CAT5 (ish). I say “ish”, because the local wire is probably CAT3 maybe. We didn&amp;#8217;t have any interference problems that we could pick up.&lt;/p&gt;
+
+&lt;p&gt;Once hooked up, we split the system for registration, triage, physicians and pharmacy. Registration has been by hand and is transiting well to the electronic system. The intake person has good aptitude with computers and was a quick study with some help. Triage, which is really vital signs and complaint are done by visiting medical students. An immediate difficulty is that the person in this position changes sometimes several times during clinic hours. There is very little regularity and registering each of these people will create some problems. At the moment, we&amp;#8217;re continuing to register each person in the system and privilege them as such. The suggestion, by some, that we create a group without name, is problematic from several standpoints.&lt;/p&gt;
+
+&lt;p&gt;Physician training was minimal because of initial delays in deploying the system. However, I spent time with the physicians and we have enabled remote secure access so that they can use and manoeuvre through the system. For the most part, physicians are not the stumbling block.&lt;/p&gt;
+
+&lt;p&gt;There is a large pharmacy and much of the medication for patients is dispensed from this bank of medications. We did not pre-enter the medications and are still working ways to get some handle on the bulk of and entry of these medications.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://farm5.static.flickr.com/4108/5016001755_048865f4ca_z_d.jpg&#34; alt=&#34;At the Solola outreach&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://farm5.static.flickr.com/4125/5016646688_31a230ceef_d.jpg&#34; alt=&#34;Solola Clinic&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://farm5.static.flickr.com/4151/5016042105_cee7515d92_d.jpg&#34; alt=&#34;Solola Clinic&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://farm5.static.flickr.com/4154/5016057385_895a710e3d_z_d.jpg&#34; alt=&#34;Dentistry in the Pueblos&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The dental portion of &lt;strong&gt;FreeMED&lt;/strong&gt; will be implemented once the medical is stable and in use. &lt;strong&gt;FreeMED&lt;/strong&gt; continues to evolve. There were some specific changes made to accommodate the needs of this clinic and its staff. We hope to have some hard statistics from the program by mid year with full integration of the old (paper) medical records. The &lt;a href=&#34;http://www.fujitsu.com&#34;&gt;Fujitsu corporation&lt;/a&gt; has donated scanners which will enable us to port paper records into the system.&lt;/p&gt;
+
+&lt;p&gt;Once we have fully implemented &lt;strong&gt;FreeMED&lt;/strong&gt; in the clinic, we hope to add Android capability to the Xela system, allowing for remote access as well as telemedicine conferencing.  The Android capability, already built into &lt;strong&gt;FreeMED&lt;/strong&gt; permits recording and transcribing of teleconferences directly to the medical record. Other Android features are planned. &lt;strong&gt;FreeMED&lt;/strong&gt; does work seamlessly to provide access by Android to appointment and other portions of the system including the internal messaging system.  There are other anticipated donations of medical equipment including monitors to the clinic. Those too are planned to be integrated using the SHIM portion of &lt;strong&gt;FreeMED.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;FreeMED&lt;/strong&gt; is an opensource GPL-licensed product, in use worldwide. &lt;strong&gt;FreeMED&lt;/strong&gt; recently announced the release of the 0.9.0 beta version. More information is available through the &lt;a href=&#34;http://www.freemedsoftware.org&#34;&gt;FreeMED website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you are interested in helping with the clinic either by donation of time, energy,  equipment or monies, please contact donations at popwujclinic dot org    Another trip to the clinic is planned for May. If you have an interest in international or travel medicine and wish to contribute by taking the offered courses and /or &lt;a href=&#34;http://www.popwujclinic.org/&#34;&gt;contribute expertise contact&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>it couldn&#39;t hurt .. or could it</title>
+      <link>http://redlinedoc.com/2010/10/it-couldnt-hurt-or-could-it/</link>
+      <pubDate>Tue, 12 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://redlinedoc.com/2010/10/it-couldnt-hurt-or-could-it/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been watching with interest the current Republican party dance around repeal of the Healthcare insurance legislation just passed.  Its a sad bit of badly made political salad with very little for those who need health insurance, a guaranteed business for the insurance companies (universal sign up), &lt;a href=&#34;http://www.slate.com/id/2224621/&#34; title=&#34;Big Pharma Billy Tauzin&#34;&gt;guaranteed pharma profits (no pharma negotiation) &lt;/a&gt;and extension of the market for about 40% of those who are still uncovered or uninsured.&lt;/p&gt;
+
+&lt;p&gt;State legislatures, not to be overlooked are trying their best to carve themselves in our out of the new Heatlhcare bill by blocking advances or by shouting states rights.  With hard economic times, its easy to get voters to hear the shouting but miss the salient points.&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;ve missed the boat, again. Smoke and mirrors and distraction reign supreme. The emperor, or his bill, have no clothes. This does not cover a majority of the uninsured. I&amp;rsquo;m waiting to see how those who are unemployed, now some approaching the 2 year mark, will pay for this bit of fluff.  The state&amp;rsquo;s assistance systems were already at a foundering point and shoving the burden to physicians and hospitals for the under and uninsured will only exacerbate the problem.&lt;/p&gt;
+
+&lt;p&gt;There&amp;rsquo;s a bit of shuck and drag going on here. We&amp;rsquo;re told that we need to work to pass this. We&amp;rsquo;re told it will bankrupt us. We&amp;rsquo;re told this is socialism at its worst.  Socialism?&lt;/p&gt;
+
+&lt;p&gt;Today one of the walking wounded comes to the clinic. She works 40-50 hours a week, full time  she&amp;rsquo;s told, at one of the local hospitals. To expedite services the hospital contracts out its housekeeping. The firm, to keep profits ripe,  they don&amp;rsquo;t pay insurance.  Hmm. Ok. We took what was a paid in-house position, took away the benefits, hired the same folks to do the same job so that the &lt;a href=&#34;http://www.youtube.com/watch?v=p220yi2VOj8&#34; title=&#34;I was gonna  be an engineer &#34;&gt;profits would stay as high as maybe &lt;/a&gt;&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;I digress. Here&amp;rsquo;s a full time working person with no insurance.  How is a public option for her, socialism?  From where I sit, we pay into the medicare system.  We pay it in wages and taxes and reap a long term benefit devoid of the need for stockholders to benefit. Although an inconstant fiduciary, generally governments have handled trust funds much better than banks or insurance companies, always looking to the next gaming table, ripening the profits.&lt;/p&gt;
+
+&lt;p&gt;If we allow the loud shouts to take back the minimal advances, and I agree its far from perfect, we&amp;rsquo;ll end up with still more uninsured.  The hidden cost of the &amp;lsquo;uninsured&amp;rsquo; long patched over by draining high end payments from private insurers into the unbalanced pot is at an end. The insurance blokes, have cut off that avenue. The uninsured now go to emergency rooms, expensive care, and not much of it.&lt;/p&gt;
+
+&lt;p&gt;Emphasis from the Healthcare Plan was on primary care, extending to patients the ability to see and to find competent expert medical care. If we persist at deconstructing the fragile imperfect house, we&amp;rsquo;ll have but a very expensive house of cards fallen loosely and very expensively apart.  Threats of Medicare cuts are more thunder than substance. We do need government to help us. Watch carefully.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bonuses for bettors</title>
+      <link>http://redlinedoc.com/2010/03/bonuses_for_bettors/</link>
+      <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://redlinedoc.com/2010/03/bonuses_for_bettors/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been quiet again. Probably feeling a deep recession myself, much more moral than fiscal but none the less, staying away from vocalizing what should be said.&lt;/p&gt;
+
+&lt;p&gt;I awoke to a story this morning about Jeffrey Skilling. His lawyers want to revisit the case so poor Jeffrey, who ruined the lives not only of stockholders, but his fellow employees by lying and taking their monies would be set free. But I digress.&lt;/p&gt;
+
+&lt;p&gt;I work in Hartford, now ranked the third poorest city of its size in the nation. Once it had a thriving downtown and people worked at department stores, in the pre-mall days, with names like G Fox and Company or Brown-Thompson and more. They probably never made much more than minimum wage but worked hard, many of them for 30 years or more and retired with small social security benefits but with a retirement plan that allowed them some leeway to visit grandchildren, keep an apartment or house and generally live a decent retired lifestyle. No high rollers here, just decent hardworking folks.&lt;/p&gt;
+
+&lt;p&gt;I spoke to one the other day, now on the verge of losing her house because she can&amp;rsquo;t make the tax payments. How? Well Jeffrey Skilling&amp;rsquo;s friends at Morgan Stanley and Lehman Brothers (and many others) took her monies to the racetrack, bet the monies on derrivatives (a fancy name for casino in the stock world). So long as everyone was making 100% returns (you do see where this is going) everyone was happy. Then the day came when someone looked and (((GASP!!!))) the emperor was naked. The whole house of cards fell and with it the retirements and savings of the folks in the North End of Hartford and elsewhere. Oh well. Not to despair. We&amp;rsquo;re so good (the Skilling-ites replied) that we need bonuses to make sure that we retain all these fine young minds. And so they did. We the people bonused the bettors. If they&amp;rsquo;d done this at a OTB window they could not have done a better job.&lt;/p&gt;
+
+&lt;p&gt;What of my lady in the North End. She, who worked all her life gets to go on assistance. She spoke with me with tears in her eyes.   She&amp;rsquo;d never taken anything from anyone and now she was forced to accept this.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m not the blood thirsty sort; however, I have visions of letting Jeffrey or his ilk, loose in a field with some of the folks they fleeced. Heads on pikes. It might slow the cascade of betting other peoples monies. It might bring some cold comfort to those without heat or shelter because they lent trust and were returned fiduciary irresponsibility.&lt;/p&gt;
+
+&lt;p&gt;I spoke with a 401K counselor recently about all this stealing. He of course in his snow-cones-salesman&amp;rsquo;s way assured me that this could never happen to mutual funds? Huh?&lt;/p&gt;
+
+&lt;p&gt;Somewhere out there I recall that fiduciary meant fiscally responsible. If we bonus these people perhaps they should pay (directly) some of those millions to those they fleeced.  An idea but hardly likely to fly. Nope. Heads on pikes I think.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Turfed too</title>
+      <link>http://redlinedoc.com/2009/08/turfed-too/</link>
+      <pubDate>Sat, 22 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://redlinedoc.com/2009/08/turfed-too/</guid>
+      <description>&lt;p&gt;It amazes me that in the land of&lt;a href=&#34;http://www.nytimes.com/2007/08/12/opinion/12sun1.html&#34;&gt; the best healthcare&lt;/a&gt; we&amp;rsquo;re more in the business of denying care than providing it.&lt;/p&gt;
+
+&lt;p&gt;I get a call the other day that a kid has stepped on a piece of glass. Its off hours but I say &amp;ldquo;sure, bring him in, I&amp;rsquo;ll take a look&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;A pale frightened 13y/o arrives at the clinic with parents. Apparently yesterday he jumped up off a picnic table (in the way that 13 year old males do) and sprang directly onto a wine glass lying on the ground. The glass shattered into the bottom of his foot. The parents, correctly, take him to the nearest emergency room. He waits approximately 3 &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2&lt;/sub&gt; hours since its &amp;ldquo;only a bleeding foot&amp;rdquo;. Xrays show glass in the wound and the physician diagnoses tendon injuries to the tendons of the toes. Ahh, you say, a case for the surgeons.&lt;/p&gt;
+
+&lt;p&gt;Not so fast. He has a state option child health insurance. They sew up the foot (with the glass inside) and direct him to a private practice clinic the following day. He continues to bleed, slowly, through the night. Mom and dad pack him off to the local recommended doctor only to find that he (nor most others) do not accept this insurance. They are tempted to return to the emergency room but call me.&lt;/p&gt;
+
+&lt;p&gt;He cannot be treated here. He needs advanced care which we cannot offer to him. I make some calls with the assistance of our pediatrician. He&amp;rsquo;s transferred to a tertiary care facility. By 4PM he&amp;rsquo;s in an operating room and being cared for.&lt;/p&gt;
+
+&lt;p&gt;What went wrong? Why didn&amp;rsquo;t the emergency room transfer him inter-hospital when they realized they had a severe injury they couldn&amp;rsquo;t handle? Why did they refer him through out patient when clearly there was no real outpatient option?&lt;/p&gt;
+
+&lt;p&gt;Insurance. When the insurance pays so poorly that even the most basic of services are covered but lose money, then the hospitals, left to chose to bleed monies or to restrict services chose the latter. In the land of &amp;#8216;the best healthcare&amp;rdquo; we are forced into rationing that healthcare based not on need, not on priorities but on the needs of the stockholders of insurance companies.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Irony rides again</title>
+      <link>http://redlinedoc.com/2009/08/irony-rides-again/</link>
+      <pubDate>Thu, 13 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://redlinedoc.com/2009/08/irony-rides-again/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve had a &lt;a href=&#34;http://www.phrases.org.uk/meanings/87600.html&#34;&gt;catbird seat&lt;/a&gt; for the construction of a new facility in the poor end of town where I work. Its a marvel of glass and concrete and steel and glass &amp;ndash; oh I DID say glass. Indeed the glass rises nearly spire like to the roof at the front of this building. Wing like, the roof soars. It is a beauty to behold. One of the many problems, probably not foreseen on this &lt;a href=&#34;http://www.nature.org/wherewework/northamerica/.../connecticut/connecticutriver/&#34;&gt;ancient floodplain&lt;/a&gt; of a building site, is that water needs to go somewhere. Build a soaring roof and you have roaring drainage water.&lt;/p&gt;
+
+&lt;p&gt;The water comes off the roof so fast that it needs a cistern to slow the flow of the water. Cisterns were installed, thermos bottle looking affairs on concrete pads around the building. Voila, problem solved. Not so fast. The waters, not seen since the times of Noah, overwhelmed even this system digging up the ground. Solution: &lt;a href=&#34;http://www.tennessee.gov/environment/wpc/sed_ero_controlhandbook/rr.pdf&#34;&gt;Riprap,&lt;/a&gt; stones to break up the water spilling from the cisterns from the roof. Ahh, architecture.&lt;/p&gt;
+
+&lt;p&gt;It is indeed a pretty solution, 4 to 4 &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2&lt;/sub&gt; inch &lt;a href=&#34;http://www.wesleyan.edu/ctgeology/Traprock.PDF&#34;&gt;traprock&lt;/a&gt;. Traprock has an irregular shape with sharp edges and pointy parts. It doesn&amp;rsquo;t move much. However, it is also about softball sized and easy to fit in the hand. About now there should be a &lt;a href=&#34;http://www.youtube.com/watch?v=DXCbAtkgNMw&#34;&gt;D&amp;rsquo;oh&lt;/a&gt; much like Homer Simpson. Rocks. Windows. I believe the building will soon be in the glass business.&lt;/p&gt;
+
+&lt;p&gt;It has been something which when I point this out to people, step by step, they say &amp;ldquo;OH WOW&amp;rdquo;. Yea. Tinkle tinkle. &lt;a href=&#34;http://www.filmsite.org/dest.html&#34;&gt;Irony rides again!&lt;/a&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Moments of madness</title>
+      <link>http://redlinedoc.com/2009/07/moments-of-madness/</link>
+      <pubDate>Mon, 13 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://redlinedoc.com/2009/07/moments-of-madness/</guid>
+      <description>&lt;p&gt;I was driving home this evening listening to the discussion about why the financial institutions are putting out the same hybrid products that brought us this wonderful recession, hearing the pundits explain that it brings capital into the markets and although its a bit (a bit?) risky, these instruments help to drive the market. Ok. I&amp;rsquo;m no financial whiz but didn&amp;rsquo;t we just loan billions and trillions of dollars to these self serving financial institutions to NOT have them bet the store? Wasn&amp;rsquo;t part of the project to make them more fiscally responsible? Somehow we the poor schmoes who pay taxes are subsidizing a very wealthy gambling habit. We&amp;rsquo;re bound to lose. We may be the house but in this case we hold none of the trump cards.&lt;/p&gt;
+
+&lt;p&gt;Trump cards? Isn&amp;rsquo;t this banking? Isn&amp;rsquo;t this where the banker sits across the table and says &amp;ldquo;Well Joe, opening a restaurant is a risky business and we&amp;rsquo;ll need some collateral&amp;rdquo; &amp;ndash; or so it was in the past. Now we have bankers betting (your house) on 10:1 or 100:1 odds knowing that the worst will be that the government will for a time be paying into their bank. Where are their ethics.&lt;/p&gt;
+
+&lt;p&gt;Ahh ethics. It seems that capitalism trumps ethics. Do undo others before they do unto you. The Ivory Tower at Harvard spoke several weeks ago about plans to include teaching ethics to the business school. Its the piper teaching the cobra. Once the cobra leaves the nest, well then its just a bunch of snakes isn&amp;rsquo;t it?&lt;/p&gt;
+
+&lt;p&gt;It wasn&amp;rsquo;t until the sentencing the other week that I got it. Bernie Madoff&amp;hellip; made off with our monies. Too sweet. such onomatopoeia. No one saw the deal too good to be true, 30:1 winnings? Get real folks. Its all about the casino, and we the taxpayer have been at the largest gaming table ever, Bernie and his friends (and there are more no doubt) are pikers compared to the banks and so called financial houses that take our monies and throw it on the international craps table. Oh lost a few billion in that scheme. Not to worry Uncle will back you&amp;hellip; .and he has.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Heads on pikes</title>
+      <link>http://redlinedoc.com/2009/06/heads-on-pikes/</link>
+      <pubDate>Mon, 22 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://redlinedoc.com/2009/06/heads-on-pikes/</guid>
+      <description>&lt;p&gt;It seems its a day of good news bad news. The good news seems to be that the boys at Goldman Sachs are snuffling at the trough and ready to suck up those great well deserved bonuses for having put us in the worst recession since the 30&amp;rsquo;s perhaps worse than that.  I fear that we missed an opportunity for heads on pikes. I&amp;rsquo;m not ordinarily a gory sort of fellow; however, if a few of those egregious folk had their heads up along the boulevard perhaps fewer of these guys would be snorting at the trough so soon. Its a sign that regulation has lost and that we as a nation have or will loose big time now that the game is a foot and the money is liberally flying around again.&lt;br /&gt;
+It makes me wonder in some ways what the big call is for CEO&amp;rsquo;s. I hear one company after another looking for the most expensive CEO guy they can find. I have no problem paying for success. Its the paying for the failures. United Airlines, General Motors, Chrysler, Hewlett Packard &amp;ndash; each of those men and women walked away handsomely endowed with bonus and super bonus and stock options. As each of these companies tanked and drew down the economy we threw MORE money at CEO&amp;rsquo;s. I&amp;rsquo;ve yet to see cat skeleton&amp;rsquo;s around full cat food bowls.  I believe if we all went to reasonable executive pay and said NO MORE! that indeed CEO&amp;rsquo;s would be paid proportionately and reasonably. Perhaps we should make the CEO take some of the risk (not with fake-o securities from the board but with his own monies. Perhaps, as in days of yore, CEO&amp;rsquo;s should bear a percentage of risk and win-lose with the company.)&lt;/p&gt;
+
+&lt;p&gt;Danny DeVito, ever a mirror for the times, did it well with &amp;ldquo;Other People&amp;rsquo;s Money&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;The Harvard business school recently announced that they might teach business ethics to their grads. What a concept! Such things as stealing from old ladies is wrong, wiping out the life savings of people and towns is poor for future business, and the future. My son said that if once in a while if the inchoate mob, those who lost nearly everything, had an opportunity to be in a closed area with the hedgies and mutualaholics who ground their savings from real to imaginary numbers that much of this would be object lesson.&lt;/p&gt;
+
+&lt;p&gt;But then, that&amp;rsquo;s pretty gory.&lt;/p&gt;
+
+&lt;p&gt;Heads on pikes. Not a lot. Just a few. Some in Wall Street. Some on K Street. Some along the mall. Sobers the crowd and makes us remember that there really are people who are responsible. Until then, it&amp;rsquo;s still &amp;ldquo;Buddy can you spare a (discounted) dime.&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

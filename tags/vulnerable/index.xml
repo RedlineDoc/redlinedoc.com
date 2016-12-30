@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Redline Doc</title>
+    <link>http://redlinedoc.com/tags/vulnerable/index.xml</link>
+    <description>Recent content on Redline Doc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://redlinedoc.com/tags/vulnerable/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Pish tosh</title>
+      <link>http://redlinedoc.com/2011/06/pish-tosh/</link>
+      <pubDate>Wed, 22 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://redlinedoc.com/2011/06/pish-tosh/</guid>
+      <description>&lt;p&gt;Ahh my faith in the society of &lt;a href=&#34;http://washingtonexaminer.com/politics/2011/06/obama-rubs-elbows-regulatory-robber-barons&#34;&gt;robber barons &lt;/a&gt;is renewed! On the news: A fine of 156 million is levied for stealing. No jail. No restrictions just the fine at 1% of last years net.  Wow! The cost of doing business.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m not dismayed anymore. I&amp;rsquo;m sad. I&amp;rsquo;m sure I&amp;rsquo;m not alone. The &lt;a href=&#34;http://moneyland.time.com/2011/06/21/banks-are-hurting-its-all-relative/&#34;&gt;weasels are in the hen house &lt;/a&gt;and have eaten all the chickens and wonder why there are no eggs.&lt;/p&gt;
+
+&lt;p&gt;More interesting than the fine is the underlying lie. The company, and apparently the big five are all involved, took money from investors, short sold the investment (this means they bet AGAINST the investor making money), told them how wonderful the packaged securities were and then laughed at them for their folly.&lt;/p&gt;
+
+&lt;p&gt;Ho Humm. Business lying as usual. Whats the news here?  We&amp;rsquo;ve suspected for some time that the SEC (Securities and Exchange Commission) was bought and paid for, but now having raped the American economy and managing to blame the poor outcome on the suckers who &lt;a href=&#34;http://news.google.com/news/url?sa=t&amp;amp;ct2=us%2F0_0_s_4_0_t&amp;amp;usg=AFQjCNFF0GqujJNgintdcZqpWnbTFom7HQ&amp;amp;did=e7413863b8afb6a0&amp;amp;cid=8797715370661&amp;amp;ei=zP8BTuj3LoX8ggfA98DtAg&amp;amp;rt=SEARCH&amp;amp;vm=STANDARD&amp;amp;url=http%3A%2F%2Fwww.bloomberg.com%2Fnews%2F2011-06-21%2Fgensler-evolving-in-derivatives-war-sees-no-deed-go-unpunished.html&#34;&gt;bought into their racetrack scheme&lt;/a&gt;, the government fails to even slow down this juggernaut.&lt;/p&gt;
+
+&lt;p&gt;I agree with comedian &lt;a href=&#34;http://lewisblack.com/bio.aspx&#34;&gt;Lewis Black&lt;/a&gt; who said &amp;ldquo;You should expect of your leaders what you expect of an experienced canoe guide.  We&amp;rsquo;re going down that fork in the river and not the other because down there there&amp;rsquo;s a *#$(* waterfall!!&amp;rdquo;  What we have are disneyesque leaders pushing us &lt;a href=&#34;http://www.snopes.com/disney/films/lemmings.asp&#34;&gt;off the cliff like lemmings&lt;/a&gt;, to make a &amp;#8216;good show&amp;rsquo;.  We should preserve the banks because they&amp;rsquo;re our salvation. HAH.&lt;/p&gt;
+
+&lt;p&gt;I watch, from the poorest census district in the United States, not 40 miles from nearly the richest, with the realization that we have always blamed the poor for our outcomes. They&amp;rsquo;re the ones who did this. They created the financial collapse, not the liars at the banks, not the conniving realtors who sold properties they knew would never be repaid, nor the investment banks which rolled all this compost into securities, laughing at the unicorns and morons that would buy such stuff that they themselves had bet against! Imagine that.  An so they have left a trail of devastation and destruction that will take years, if ever to recover from. The folks, trusting their employers to look after them had very low social security payouts but good supplemental income from investments made by their employers  &amp;ndash;  now all vanished at the racetracks of the banking world.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.quoteworld.org/quotes/3649&#34;&gt;&amp;ldquo;It was the best of times, it was the worst of times; it ws the age of wisdom, it was the age of foolishness; it was the epoch of belief, it was the epoch of incredulity; it was the season of Light, it was the season of Darkness; it was the spring of hope, it was the winter of despair; we had everything before us, we had nothing before us; we were all going directly to Heaven, we were all going the other way.&amp;rdquo;&lt;/a&gt; I&amp;rsquo;d hope there would be some public outcry, anger at the blood in the streets. How Dickensian this has all become.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A View From Xela. Implementing FreeMED in Guatemala.</title>
+      <link>http://redlinedoc.com/2010/10/a-view-from-xela-implementing-freemed-in-guatemala/</link>
+      <pubDate>Tue, 12 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://redlinedoc.com/2010/10/a-view-from-xela-implementing-freemed-in-guatemala/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://jbuchbinder.com&#34;&gt;Jeff&lt;/a&gt; and I undertook implementation of &lt;a href=&#34;http://freemedsoftware.org/org/&#34;&gt;FreeMED&lt;/a&gt; an Open Source Electronic Medical Record and practice management system for the &lt;a href=&#34;http://popwujclinic.org/&#34;&gt;Pop-Wuj Clinic&lt;/a&gt;, a primary care, non-profit, free and open clinic in &lt;a href=&#34;http://maps.google.com/maps?f=q&amp;amp;source=s_q&amp;amp;hl=en&amp;amp;q=&amp;amp;vps=5&amp;amp;jsv=282d&amp;amp;sll=37.020098,-95.625&amp;amp;sspn=91.574054,158.027344&amp;amp;ie=UTF8&amp;amp;geocode=Fbxh4gAdWXyL-g&amp;amp;split=0&#34;&gt;Quezeltenango&lt;/a&gt;, Guatemala. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;&amp;quot;http://farm4.static.flickr.com/3149/2907922953_b0f9bf5e0f_d.jpg&#34; alt=&#34;A view of Santa Maria from a quiet street&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The clinic, founded by members of Pop-Wuj Spanish School, (&lt;a href=&#34;http://www.pop-wuj.org/&#34;&gt;http://www.pop-wuj.org/&lt;/a&gt;)  a non-profit school for teaching Spanish language, and &lt;a href=&#34;http://www.weillcornell.org/physician/jstgeorge/index.html&#34;&gt;Dr. Jonathan St. George&lt;/a&gt;, an emergency department physician at Weill Cornell Medical Center . Dr St. George began with a space and a concept and has with coordination with the &lt;a href=&#34;http://www.timmyfoundation.org/&#34;&gt;Timmy Foundation&lt;/a&gt; staffed a regular clinic with a full time physician and assistants, recruited a part time dentist and a part time community physician to work in the clinic.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3027/2559182101_022b949107_d.jpg&#34; alt=&#34;Pop Wuj Clinic on the street&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Students of medicine or allied fields attending Pop-Wuj Spanish Language school assist with chores and triage at the clinic in the morning and then attend their language classes in the afternoon.&lt;/p&gt;
+
+&lt;p&gt;It is planned for the clinic to be self sustaining.  To derive funds, we will offer continuing medical education courses in Travel and International Medicine. the staff, all volunteer, will make the courses available, and the fees used to fund the clinic and operations.  We plan to use Open Source Training tools as a basis for online and study courses both for Pop-Wuj school and for Access Medicine, the teaching wing.  We hope to prove this funding model within three years.&lt;/p&gt;
+
+&lt;p&gt;The installation of &lt;strong&gt;FreeMED&lt;/strong&gt; was not without its problems. Servers donated by &lt;a href=&#34;http://www.sgi.com&#34;&gt;SGI/Rackable Systems &lt;/a&gt; complemented laptops donated by Jeff&amp;#8217;s employer helped get us off the ground. Immediate problems with infrastructure, the system wasn&amp;#8217;t at all grounded coupled with a need for stable power, necessitated the purchase of a UPS to protect the servers.  Difficulty with the structures which are of concrete and re-bar hindered good WIFI transmissions within the building. We capitulated and wired the building for CAT5 (ish). I say “ish”, because the local wire is probably CAT3 maybe. We didn&amp;#8217;t have any interference problems that we could pick up.&lt;/p&gt;
+
+&lt;p&gt;Once hooked up, we split the system for registration, triage, physicians and pharmacy. Registration has been by hand and is transiting well to the electronic system. The intake person has good aptitude with computers and was a quick study with some help. Triage, which is really vital signs and complaint are done by visiting medical students. An immediate difficulty is that the person in this position changes sometimes several times during clinic hours. There is very little regularity and registering each of these people will create some problems. At the moment, we&amp;#8217;re continuing to register each person in the system and privilege them as such. The suggestion, by some, that we create a group without name, is problematic from several standpoints.&lt;/p&gt;
+
+&lt;p&gt;Physician training was minimal because of initial delays in deploying the system. However, I spent time with the physicians and we have enabled remote secure access so that they can use and manoeuvre through the system. For the most part, physicians are not the stumbling block.&lt;/p&gt;
+
+&lt;p&gt;There is a large pharmacy and much of the medication for patients is dispensed from this bank of medications. We did not pre-enter the medications and are still working ways to get some handle on the bulk of and entry of these medications.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://farm5.static.flickr.com/4108/5016001755_048865f4ca_z_d.jpg&#34; alt=&#34;At the Solola outreach&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://farm5.static.flickr.com/4125/5016646688_31a230ceef_d.jpg&#34; alt=&#34;Solola Clinic&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://farm5.static.flickr.com/4151/5016042105_cee7515d92_d.jpg&#34; alt=&#34;Solola Clinic&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://farm5.static.flickr.com/4154/5016057385_895a710e3d_z_d.jpg&#34; alt=&#34;Dentistry in the Pueblos&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The dental portion of &lt;strong&gt;FreeMED&lt;/strong&gt; will be implemented once the medical is stable and in use. &lt;strong&gt;FreeMED&lt;/strong&gt; continues to evolve. There were some specific changes made to accommodate the needs of this clinic and its staff. We hope to have some hard statistics from the program by mid year with full integration of the old (paper) medical records. The &lt;a href=&#34;http://www.fujitsu.com&#34;&gt;Fujitsu corporation&lt;/a&gt; has donated scanners which will enable us to port paper records into the system.&lt;/p&gt;
+
+&lt;p&gt;Once we have fully implemented &lt;strong&gt;FreeMED&lt;/strong&gt; in the clinic, we hope to add Android capability to the Xela system, allowing for remote access as well as telemedicine conferencing.  The Android capability, already built into &lt;strong&gt;FreeMED&lt;/strong&gt; permits recording and transcribing of teleconferences directly to the medical record. Other Android features are planned. &lt;strong&gt;FreeMED&lt;/strong&gt; does work seamlessly to provide access by Android to appointment and other portions of the system including the internal messaging system.  There are other anticipated donations of medical equipment including monitors to the clinic. Those too are planned to be integrated using the SHIM portion of &lt;strong&gt;FreeMED.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;FreeMED&lt;/strong&gt; is an opensource GPL-licensed product, in use worldwide. &lt;strong&gt;FreeMED&lt;/strong&gt; recently announced the release of the 0.9.0 beta version. More information is available through the &lt;a href=&#34;http://www.freemedsoftware.org&#34;&gt;FreeMED website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you are interested in helping with the clinic either by donation of time, energy,  equipment or monies, please contact donations at popwujclinic dot org    Another trip to the clinic is planned for May. If you have an interest in international or travel medicine and wish to contribute by taking the offered courses and /or &lt;a href=&#34;http://www.popwujclinic.org/&#34;&gt;contribute expertise contact&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>REAL Health care -- in the trenches.</title>
+      <link>http://redlinedoc.com/2010/10/real-health-care-in-the-trenches/</link>
+      <pubDate>Tue, 12 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://redlinedoc.com/2010/10/real-health-care-in-the-trenches/</guid>
+      <description>&lt;p&gt;I read Paul Romer&amp;rsquo;s &lt;a href=&#34;http://healthcareitstrategy.com/2010/10/12/the-effect-of-healthcare-reform-on-others-2/&#34;&gt;The effect of Health Care Reform&lt;/a&gt; on others, a play on the vagaries of our dysfunctional healthcare system and putative illnesses of &lt;a href=&#34;en.wikipedia.org/wiki/Mother_Goose&#34;&gt;Mother Goose&lt;/a&gt; characters.  I admit it (a guilty pleasure) I laughed. Then I reflected on the daily life in our&lt;a href=&#34;http://www.chshartford.org&#34;&gt; Community Health Center,&lt;/a&gt; in Connecticut, located in poorest city of its size in the nation. The irony is just too much. We &lt;a href=&#34;http://wiki.answers.com/Q/Why_is_connecticut_call_the_nutmeg_state&#34;&gt;(nutmegers)&lt;/a&gt; are the wealthiest per captita state in the nation!&lt;/p&gt;
+
+&lt;p&gt;But- I digress.&lt;/p&gt;
+
+&lt;p&gt;A patient appears at our primary care clinic on Friday. Classic signs of cholecystitis (gall bladder attack).  We hustle her by transport to the emergency room. Monday morning she&amp;rsquo;s BACK!  At the emergency room, the nice physician gave her the name of several surgeons she could call to have her gall bladder fixed. None take her insurance.&lt;/p&gt;
+
+&lt;p&gt;An 82 year old lady lives in her car. Bernie (this is too good) Madeoff with the retirement funding. She can&amp;rsquo;t afford the taxes. She lives in her car.&lt;/p&gt;
+
+&lt;p&gt;A patient comes for diabetic medication, gets a glucometer (to measure the sugar), strips (to use in the machine) but the company doesn&amp;rsquo;t pay for the lancets to draw the blood from the finger. Urmmmmmm.&lt;/p&gt;
+
+&lt;p&gt;A patient drops a heavy object on her foot. She goes (of course) to the emergency room, diagnosed with a fracture but referred to the clinic so that she can have a cast put on.  She is uninsured.   I might add this over a five day period.&lt;/p&gt;
+
+&lt;p&gt;A patient comes with a kidney infection. No problem. Antibiotics. Oh  &amp;ndash;  we don&amp;rsquo;t cover THAT antibiotic.&lt;/p&gt;
+
+&lt;p&gt;A patient, finally stabilized on psychiatric medication shows up for a refill. UhOh. You need a prior authorization. What? This patient has  been taking this for a year. No matter. We need to consider the forms (they say) to make sure the patient is getting the best medication. Insurance oversight.&lt;/p&gt;
+
+&lt;p&gt;A letter arrived the other day from one of the major drug companies letting us know that they are going to be direct advertising to consumers for certain drugs so that they (the consumers) will know what best to ask for.&lt;/p&gt;
+
+&lt;p&gt;A young boy comes having (as children are wont to do) leaped off a picnic table and stepped on some glass. The local ER (no problem) sees the child, recognizes that there is glass &amp;lsquo;somewhere&amp;rsquo; in the wound, sews up the wound, and sends the parents off in search of a surgeon who will see them on state insurance. Two days later. They arrive at our clinic looking for guidance. We are fortunate to have some favors to call in. He gets care.&lt;/p&gt;
+
+&lt;p&gt;Lest you think out there that is is a factor of my particular city, its not. As I speak with colleagues around the country, this is the rule not the exception. As insurers tighten the profit noose, looking to their bottom lines not yours, this is a frightening and every more common occurrence. As hospital emergency room expenses rise the quest to slide more care out to the community increases. Its shoddy. Its terrible. Its not good medicine, hell its not good care in the third world. It is however our current system.&lt;/p&gt;
+
+&lt;p&gt;Healthcare reform may change some of this but we are only at a beginning. I praise Paul for bringing a bit of humour to what is, for me, a very black, dark sad subject.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>it couldn&#39;t hurt .. or could it</title>
+      <link>http://redlinedoc.com/2010/10/it-couldnt-hurt-or-could-it/</link>
+      <pubDate>Tue, 12 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://redlinedoc.com/2010/10/it-couldnt-hurt-or-could-it/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been watching with interest the current Republican party dance around repeal of the Healthcare insurance legislation just passed.  Its a sad bit of badly made political salad with very little for those who need health insurance, a guaranteed business for the insurance companies (universal sign up), &lt;a href=&#34;http://www.slate.com/id/2224621/&#34; title=&#34;Big Pharma Billy Tauzin&#34;&gt;guaranteed pharma profits (no pharma negotiation) &lt;/a&gt;and extension of the market for about 40% of those who are still uncovered or uninsured.&lt;/p&gt;
+
+&lt;p&gt;State legislatures, not to be overlooked are trying their best to carve themselves in our out of the new Heatlhcare bill by blocking advances or by shouting states rights.  With hard economic times, its easy to get voters to hear the shouting but miss the salient points.&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;ve missed the boat, again. Smoke and mirrors and distraction reign supreme. The emperor, or his bill, have no clothes. This does not cover a majority of the uninsured. I&amp;rsquo;m waiting to see how those who are unemployed, now some approaching the 2 year mark, will pay for this bit of fluff.  The state&amp;rsquo;s assistance systems were already at a foundering point and shoving the burden to physicians and hospitals for the under and uninsured will only exacerbate the problem.&lt;/p&gt;
+
+&lt;p&gt;There&amp;rsquo;s a bit of shuck and drag going on here. We&amp;rsquo;re told that we need to work to pass this. We&amp;rsquo;re told it will bankrupt us. We&amp;rsquo;re told this is socialism at its worst.  Socialism?&lt;/p&gt;
+
+&lt;p&gt;Today one of the walking wounded comes to the clinic. She works 40-50 hours a week, full time  she&amp;rsquo;s told, at one of the local hospitals. To expedite services the hospital contracts out its housekeeping. The firm, to keep profits ripe,  they don&amp;rsquo;t pay insurance.  Hmm. Ok. We took what was a paid in-house position, took away the benefits, hired the same folks to do the same job so that the &lt;a href=&#34;http://www.youtube.com/watch?v=p220yi2VOj8&#34; title=&#34;I was gonna  be an engineer &#34;&gt;profits would stay as high as maybe &lt;/a&gt;&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;I digress. Here&amp;rsquo;s a full time working person with no insurance.  How is a public option for her, socialism?  From where I sit, we pay into the medicare system.  We pay it in wages and taxes and reap a long term benefit devoid of the need for stockholders to benefit. Although an inconstant fiduciary, generally governments have handled trust funds much better than banks or insurance companies, always looking to the next gaming table, ripening the profits.&lt;/p&gt;
+
+&lt;p&gt;If we allow the loud shouts to take back the minimal advances, and I agree its far from perfect, we&amp;rsquo;ll end up with still more uninsured.  The hidden cost of the &amp;lsquo;uninsured&amp;rsquo; long patched over by draining high end payments from private insurers into the unbalanced pot is at an end. The insurance blokes, have cut off that avenue. The uninsured now go to emergency rooms, expensive care, and not much of it.&lt;/p&gt;
+
+&lt;p&gt;Emphasis from the Healthcare Plan was on primary care, extending to patients the ability to see and to find competent expert medical care. If we persist at deconstructing the fragile imperfect house, we&amp;rsquo;ll have but a very expensive house of cards fallen loosely and very expensively apart.  Threats of Medicare cuts are more thunder than substance. We do need government to help us. Watch carefully.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Xela and the clinic  the 21st</title>
+      <link>http://redlinedoc.com/2010/09/xela-and-the-clinic-the-21st/</link>
+      <pubDate>Fri, 24 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://redlinedoc.com/2010/09/xela-and-the-clinic-the-21st/</guid>
+      <description>&lt;p&gt;Sorry for the long delay out there but there have  been some connection problems as well as difficulties uploading photos to FLICKR so that they won&amp;rsquo;t take up all the room in the world.  Tuesday was clinic day at Pop-Wuj in the city.  The line up for clinic is not unlike that at &lt;a href=&#34;http://www.chshartford.og&#34;&gt;CHS.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;As a clinician I tail around one of the local doctors, Dr. Christian.  He works Tuesday, Wednesday and Thursday&amp;rsquo;s at the clinic and does a small wound clinic on Tuesday and Friday mornings.  Although there are many out-clinics, helping in the pueblos, the clinic here is run regularly and the out clinics when there are volunteers or students to help with managing the &amp;lsquo;stuff&amp;rsquo; of setting up a clinic away from a home base.&lt;/p&gt;
+
+&lt;p&gt;The most surprising and yet elemental thing for me is the similarity of the patients here and at home.  Our first wound care was an ulcer caused by a hot water burn. She has a fluid load and some swelling as well as some mild but growing venous stasis.  Wound care here is much the same, debridement, support.&lt;/p&gt;
+
+&lt;p&gt;Our next, came without her support hose&lt;span&gt;.  &amp;rdquo;I left them at home today&amp;rdquo;, she said. When challenged about wearing the stockings regularly &amp;#8211; she doesn&amp;rsquo;t. They itch in the late day when the sun is up and out. I gave her a strategy to wear them only in the morning.  She laughs, the way my patients in the states do.  Dr. Christian and I exchange a knowing glance. She might.  She gives us both kisses and warm handshakes.  Its all the same. &lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;More patients. There are a lot of musculoskeletal complaints here. People use their bodies as handcarts. From the women who cary 20-30kg loads on their heads to the men who carry 100kg sacks of dirt or stone or concrete on their backs using a headband, the difficulties are related to a harsh life here. None of that is evidenced in the clinic &amp;#8211; they are all grateful to have care. No one pushes. No one shoves. There are children everywhere and most of them a bit bashful.  Being nearly &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;3&lt;/sub&gt; taller than most I look rather giant to most of them.&lt;/p&gt;
+
+&lt;p&gt;The line trickles in and in two rooms with some seen on the cuff, we see 63 patients in about 5 hours. The care? First rate given some of the limitations.  There is no EKG.  Blood pressure monitoring is done in a clinic where you can scarcely hear yourself let alone small variations in sound. Medicine is, for the most part donated and solves many of the problems.  There isn&amp;rsquo;t much polypharmacy here. Even older folks walk nearly everywhere.&lt;/p&gt;
+
+&lt;p&gt;We are trying to install &lt;a href=&#34;http://www.freemedsoftware.org&#34;&gt;FreeMED&lt;/a&gt; but the problems not forseen are overwhelming.  Although there are three pronged outlets in the clinic, none are really grounded.  Wiring to light fixtures appears as if done with bell wire. The WIFI unit in the school isn&amp;rsquo;t readily accessible (a minor problem). The clinic too needs some reorganization. A lot of donated stuff has been in boxes awaiting trained and eager hands to triage (yup triage) the medications. Overall it gets done.  Our primary server got mis directed in baggage and we&amp;rsquo;re waiting for it to be delivered. The secondary waits.&lt;/p&gt;
+
+&lt;p&gt;Jeff and I are staying at a Bed&amp;amp;Breakfast called &lt;a href=&#34;http://www.comeseeit.com&#34;&gt;Casa Manen&lt;/a&gt;, about a mile (all uphill) from the clinic. We&amp;rsquo;re getting used to the altitude, about 8500 ft here in Xela.&lt;/p&gt;
+
+&lt;p&gt;Tomorrow we go to an outlying clinic about &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;3&lt;/sub&gt; of the way to Guatemala City to deliver health care to a small pueblo. We&amp;rsquo;ll be mounting the entire team plus medical students who are here to learn Spanish at Pop-Wuj. There&amp;rsquo;s a lot of preparation and Jeff is going to look at the organization from a systems perspective to get better grounded to bring the records out side the clinic.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>At the end of all things.</title>
+      <link>http://redlinedoc.com/2010/03/at-the-end-of-all-things/</link>
+      <pubDate>Thu, 18 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://redlinedoc.com/2010/03/at-the-end-of-all-things/</guid>
+      <description>&lt;p&gt;Sad faces. Sad days. We see the poorest of the poor at my&lt;a href=&#34;http://chshartford.org&#34;&gt; health center&lt;/a&gt;. Its a magnet for those who have nowhere else. We will see them. We do see them. We patch them up. We send them back into the fray, the madness that has become our world in the &lt;a href=&#34;http://en.wikipedia.org/wiki/Neighborhoods_of_Hartford,_Connecticut&#34;&gt;north end of Hartford, Connecticut, &lt;/a&gt;only miles from the richest squares of land in the country. The disparity is at once engaging and maddening.&lt;/p&gt;
+
+&lt;p&gt;Some days ago a new face appeared in my care. Ragged on the edges, worn but still under the veneer of the street, a once proud person. She tells me she worked all her life, perhaps 40 years or more, receives &lt;a href=&#34;http://www.ssa.gov/planners/calculators.htm&#34;&gt;Social Security&lt;/a&gt;, a pittance because she worked at one of the many downtown retail stores, making ends meet, and saving for retirement through a store plan. Prior to mall-ville, Hartford, as did many other cities, house a plethora of stores from &lt;a href=&#34;http://manuscripts.wordpress.com/category/g-fox-co/&#34;&gt;upscale department &lt;/a&gt;to&lt;a href=&#34;http://manuscripts.wordpress.com/category/g-fox-co/&#34;&gt; jewelry&lt;/a&gt; and electronic palaces. It was a mecca in its time. These folks and hundreds, nay thousands like them retired to small owned homes in the north end. Clean. Neat. A neighborhood in constant transition but with ties to religious and community organizations.  Then came &lt;a href=&#34;http://www.dailyfinance.com/story/fraud-files-enrons-jeffrey-skilling-says-we-shouldnt-expect-e/19379616/&#34;&gt;Mr Skilling&lt;/a&gt; and his ilk.&lt;/p&gt;
+
+&lt;p&gt;Not content to raid the coffers of the gamblers of Wall Street, these folks conspired to use as tokens at the gambling tables the funds-in-trust for retirements. Now gone. Bankrupted. Disappeared.&lt;/p&gt;
+
+&lt;p&gt;She tells me that she couldn&amp;#8217;t afford the taxes on the house. Predators always scent prey in the winds of fortune. In her case it was a &amp;#8216;remortgage&amp;#8217; that promised to &amp;#8216;clear up the debt.&amp;#8217;  She lives in her car, however long that will last. She has no relatives in the area but has her &amp;#8216;church&amp;#8217; and her &amp;#8216;friends&amp;#8217; who don&amp;#8217;t know and she sent me a gimlet stare to let me know that I shouldn&amp;#8217;t consider letting them know.&lt;/p&gt;
+
+&lt;p&gt;So here we are at the &lt;a href=&#34;http://www.wowhead.com/?quest=12779&#34;&gt;end of all things&lt;/a&gt;, accomplishing the American dream, living in our car.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bonuses for bettors</title>
+      <link>http://redlinedoc.com/2010/03/bonuses_for_bettors/</link>
+      <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://redlinedoc.com/2010/03/bonuses_for_bettors/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been quiet again. Probably feeling a deep recession myself, much more moral than fiscal but none the less, staying away from vocalizing what should be said.&lt;/p&gt;
+
+&lt;p&gt;I awoke to a story this morning about Jeffrey Skilling. His lawyers want to revisit the case so poor Jeffrey, who ruined the lives not only of stockholders, but his fellow employees by lying and taking their monies would be set free. But I digress.&lt;/p&gt;
+
+&lt;p&gt;I work in Hartford, now ranked the third poorest city of its size in the nation. Once it had a thriving downtown and people worked at department stores, in the pre-mall days, with names like G Fox and Company or Brown-Thompson and more. They probably never made much more than minimum wage but worked hard, many of them for 30 years or more and retired with small social security benefits but with a retirement plan that allowed them some leeway to visit grandchildren, keep an apartment or house and generally live a decent retired lifestyle. No high rollers here, just decent hardworking folks.&lt;/p&gt;
+
+&lt;p&gt;I spoke to one the other day, now on the verge of losing her house because she can&amp;rsquo;t make the tax payments. How? Well Jeffrey Skilling&amp;rsquo;s friends at Morgan Stanley and Lehman Brothers (and many others) took her monies to the racetrack, bet the monies on derrivatives (a fancy name for casino in the stock world). So long as everyone was making 100% returns (you do see where this is going) everyone was happy. Then the day came when someone looked and (((GASP!!!))) the emperor was naked. The whole house of cards fell and with it the retirements and savings of the folks in the North End of Hartford and elsewhere. Oh well. Not to despair. We&amp;rsquo;re so good (the Skilling-ites replied) that we need bonuses to make sure that we retain all these fine young minds. And so they did. We the people bonused the bettors. If they&amp;rsquo;d done this at a OTB window they could not have done a better job.&lt;/p&gt;
+
+&lt;p&gt;What of my lady in the North End. She, who worked all her life gets to go on assistance. She spoke with me with tears in her eyes.   She&amp;rsquo;d never taken anything from anyone and now she was forced to accept this.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m not the blood thirsty sort; however, I have visions of letting Jeffrey or his ilk, loose in a field with some of the folks they fleeced. Heads on pikes. It might slow the cascade of betting other peoples monies. It might bring some cold comfort to those without heat or shelter because they lent trust and were returned fiduciary irresponsibility.&lt;/p&gt;
+
+&lt;p&gt;I spoke with a 401K counselor recently about all this stealing. He of course in his snow-cones-salesman&amp;rsquo;s way assured me that this could never happen to mutual funds? Huh?&lt;/p&gt;
+
+&lt;p&gt;Somewhere out there I recall that fiduciary meant fiscally responsible. If we bonus these people perhaps they should pay (directly) some of those millions to those they fleeced.  An idea but hardly likely to fly. Nope. Heads on pikes I think.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>All the Michaels are dead...</title>
+      <link>http://redlinedoc.com/2009/08/all-the-michaels-are-dead/</link>
+      <pubDate>Thu, 13 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://redlinedoc.com/2009/08/all-the-michaels-are-dead/</guid>
+      <description>&lt;p&gt;How did we allow the discussion to move away from health to how we should save the health insurance industry? How did that conversation move from a public healthy option to saving the profits of some of the most profitable companies in the world?&lt;/p&gt;
+
+&lt;p&gt;As there is increasing &lt;a href=&#34;http://sensen-no-sen.blogspot.com/2009/07/health-care-oligopoly-and-real-weight.html&#34;&gt;talk in Washington about the AMA &lt;/a&gt; time clicks by. And to whom are the insurance companies responsible? Ahhh shareholders, the same folks who brought us the current bank debacle, to whom we the people pay extravagant sums so that they can support CEO&amp;rsquo;s in a style to which they&amp;rsquo;d like to become accustomed. As there is continued agglomeration of insurers, they flock together, eat each other, thereby decreasing real market competition, in the guise of bringing lower cost to the consumer.&lt;/p&gt;
+
+&lt;p&gt;In medicine we speak for the patient. In insurance they speak for the money. There&amp;rsquo;s an inherent split here. When it comes down to it, shall we authorize care OR shall we make 0.02 for the stockholder, the stockholder and CEO options always win out. Duplicity is the name of the game. When &lt;a href=&#34;http://www.nhc.noaa.gov/1992andrew.html&#34;&gt;Hurricane Andrew&lt;/a&gt; roared across the South Florida Peninsula devastating the area. Aetna group was the major insurer holding more than 4 billion dollars in losses. That past year they golden parachuted their worthy CEO for 987 MILLION dollars (or there abouts) and then cried the blues that they didn&amp;rsquo;t have monies for claims. Hmmmm&lt;/p&gt;
+
+&lt;p&gt;I personally have run into the dealings of insurers. Serveral years ago one of the Connecticut health insurers sent out a note that all billing should henceforth be sent to a POB in Enfield. We all did send claims there and as weeks went by and no claims information was forthcoming, we were told that the claims were lost or that they should be re-submitted. Whoops. Someone bad in the company made an error and there is no POB in Enfield for our claims. We&amp;rsquo;re really sorry but you&amp;rsquo;ll have to re-submit them all over again. Hmmmm&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve had several friends who&amp;rsquo;ve suffered death at the hands of insurers, not in any direct sort of way but the usual games playing with existing conditions and difficult to access portals.&lt;/p&gt;
+
+&lt;p&gt;Working in a safety net group we see patients bounced from one provider to another, mostly based on non paying insurances. I think most of us are insulted when the insurers talk about the Medicare program, and how it fails to work. It succeeds with a 5% overhead, a draconian fraud unit, and coverage that most of us envy. Are there faults? Are there fixes to be made? Of course. We can in one swoop, make our system succeed. It needs a government backed program, devoid of usurious profits, not socialism, just good medicine.&lt;/p&gt;
+
+&lt;p&gt;We need to recenter the discussion, not about death notes but about how to prevent the needless deaths from an unwieldy bloated system which spends much of its monies not on patient well being but on corporate well being. Straight speak or soon, &lt;a href=&#34;http://www.imdb.com/title/tt0066495/&#34;&gt;all the Michaels&lt;/a&gt; will be dead&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>From My Window</title>
+      <link>http://redlinedoc.com/2009/07/from-my-window/</link>
+      <pubDate>Mon, 20 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://redlinedoc.com/2009/07/from-my-window/</guid>
+      <description>&lt;p&gt;Its sometimes a sad view, a view of contrasts, a view of contradictions, a view of humanity.  I look out into the swirl of mad colors, through the colors of people, through the colors of spring turned summer, through the bright signs to the monochrome lives of the poor on our block.&lt;/p&gt;
+
+&lt;p&gt;She must be 15, maybe. She swirls out the door of the rattrap that functions as home slamming the door, wearing nothing to deceive the immagination. She would be pretty but she has mean and hungry eyes.  They aren&amp;rsquo;t child eyes of wonder, that luster long gone. The inquisitiveness of memory is locked away. Hunger. Money. Use me. Now.&lt;/p&gt;
+
+&lt;p&gt;She clambers to a car, her high heels a misery to satisfy yet another customer. Hunger. Money. Use me. Now.  They are off but it is not long that she appears again, on the street, long legs up and down the block this child lost grown too fast.  And yet again in but a few minutes she is gone from sight. Hunger. Money. Use me. Now.&lt;/p&gt;
+
+&lt;p&gt;And so this long afternoon progresses. From time to time, as we all do, I look out my window at some block familiars and some I haven&amp;rsquo;t and will probably never again see.  They are all hungry. All waiting.  And then she appears but in new colors and new shoes, striding out with her hard child-long-gone eyes.&lt;/p&gt;
+
+&lt;p&gt;I see her walk down the block. A throw away child.  I doubt that there is a want ad which reads &amp;ldquo;Join the fun life, you too can be a street prostitute at 15&amp;rdquo;.  Yet. There she is.&lt;/p&gt;
+
+&lt;p&gt;Hungry. Money. Use me. Now.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Last you a lifetime!</title>
+      <link>http://redlinedoc.com/2009/07/last-you-a-lifetime/</link>
+      <pubDate>Tue, 14 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://redlinedoc.com/2009/07/last-you-a-lifetime/</guid>
+      <description>&lt;p&gt;I found myself unaccountably angry at statements from the auto manufacturers the other day. The mouth of Sauron from Chrysler tells us that to save money and jobs (and get a handout from Uncle Sam), that they&amp;rsquo;re dropping several lines, among them the PT Cruiser. Not much new. One of the reasons they&amp;rsquo;re dropping the cruiser is that they put a bad engine in the thing; but it sold. So what!?&lt;/p&gt;
+
+&lt;p&gt;So what? So I&amp;rsquo;m one of the poor schleps that bought a PT Cruiser but had some misgivings about the power train. I put a lot of miles on a car, somewhere around 36000. I bought their extended warranty because it came with &amp;lsquo;lifetime&amp;rsquo; oil changes. I figured at 30-40$ a clip and I change oil monthly.  Dutifully I took the car in for changes. Once day I heard a horrible racket from the engine. It was the power steering pump, I later found out. My mechanic looked at the car and realized (he called me under the car) to see the broken front motor mount, the torn high-pressure power steering link and the torn oil line. Hmmmm.&lt;/p&gt;
+
+&lt;p&gt;Cars are for me rather like black boxes. These even -=I=- with my untrammeled vision could easily see. The oil had been changed a mere 3 days before!  The dealer never did get back to me. I stopped using the oil change service.&lt;/p&gt;
+
+&lt;p&gt;The car will last until it dies. I keep it oiled and well fed but I know that time is not on my side. Now that its been orphaned things will only get worse. The fat cats at Chrysler will dine well and sleep without ethics. What saddens me most is that the country I love, the country I fought for, the country I raised my children in is eating itself, or rather being eaten alive by the corporations who made it.&lt;/p&gt;
+
+&lt;p&gt;There was a time when things were built to last. There was always a wink and a smile when some things had built in obsolesence. Where are the buggy whip manufacturers, the boom box makers, the 8 track fabricators .. but things were built with an eye toward building customers.&lt;/p&gt;
+
+&lt;p&gt;My next door neighbor when I was a kid used to tell stories of his dad who ran a general store in Coventry CT. One of the customers (in the late 1800&amp;rsquo;s) came in complaining about the axe he had. &amp;lsquo;Best axe I ever bought&amp;rsquo; said he, &amp;lsquo;six new heads, seven new handles. Last me a lifetime&amp;rsquo;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Just want to dip my beak ...</title>
+      <link>http://redlinedoc.com/2009/07/just-want-to-dip-my-beak/</link>
+      <pubDate>Thu, 09 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://redlinedoc.com/2009/07/just-want-to-dip-my-beak/</guid>
+      <description>&lt;p&gt;Strange you say.  Governor Rell (I&amp;rsquo;m a yankee) just vetoed Sustinet. &lt;a href=&#34;http://www.healthcare4every1.org/site/DocServer/sustinet_proposal.pdf?docID=541&#34;&gt;Sustinet&lt;/a&gt;? Sustinet was a plan to insure every citizen in Connecticut starting with the most vulnerable, including state employees and rolling in small businesses and non-profits to make a large coverage group competing with private insurance companies for benefits and coverages. No one would be forced to enter Sustinet (other than the current state medicaid/safetynet and employees) and it would have to stand on its own merit. It was broadly supported and overwhelmingly voted in both senate and house chambers in the state.&lt;/p&gt;
+
+&lt;p&gt;Why veto it? &lt;a href=&#34;http://www.ct.gov/governor/&#34;&gt;Governor Rell&lt;/a&gt; seems to have forgotten some history here. In the 1700&amp;rsquo;s the citizens of Connecticut recognizing that they didn&amp;rsquo;t want to replicate the Dickensian debtor prisons of England, established havens for those to sick or unable to work; town farms. The town farms were by no means a happy haven but residents there worked on the farm as they could, helped to be self sustaining, had some funding from the Selectman&amp;rsquo;s budget in the town and had food and clothings and housing and medical care. This, from the compassionate citizens of Connecticut. Fast forward. When larger government programs superseded the Town Farm System, the program became State Aid to General Assistance (SAGA) one of the safety net programs here in Connecticut.&lt;/p&gt;
+
+&lt;p&gt;No one wants to see SAGA patients. Getting referrals from primary care (I work in an &lt;a href=&#34;http://www.cms.hhs.gov/center/fqhc.asp&#34;&gt;FQHC&lt;/a&gt;) to tertiary or upper level care is nearly impossible. SAGA pays poorly for advanced care and since its coverage mostly (a devilish word) is for poor folk; Who cares. The devil in the mostly is that folks who have worked all their lives but had some dreadful disease may find themselves on SAGA. Folks who have a sickness in the family, monies wiped out by the vagaries of the current &amp;ldquo;he who has the gold makes the rules insurance system&amp;rdquo; may find themselves on SAGA. The list goes on. The poor line up and are anointed with the least of the least.&lt;/p&gt;
+
+&lt;p&gt;Sustinet looks in ways to fix this, to level the playing field by making no distinction between rich and poor by allowing all access to health care. Bah Humbug they should pull up their bootstraps, you say. WHO will pull up the bootstraps. My 24 year old daughter recently fell into the hole between parental coverage and no coverage from work. Luckily she had her health. Needed medications, however, consumed a fair bite of her savings.&lt;/p&gt;
+
+&lt;p&gt;Whats with the beak dipping? Governor Rell is a leftover from the Rowland administration here in Connecticut. She distanced herself from John Rowland (who spent some time waiting for a better paying government job &amp;ndash; quel suprise!). Republican administrations believe that business will make it all perfect. That the shareholder marketplace will bring equity and equanimity to the medical system. Each of the stakeholders will &amp;ldquo;dip his beak&amp;rdquo; only taking a fair share of the monies, pleasing the boards and CEO&amp;rsquo;s. I think this more akin to crows feasting at the carcass. There isn&amp;rsquo;t much money and pleasing the shareholders never improved wellness. There is a finite supply of monies and pleasing the CEO&amp;rsquo;s and padding their golden parachutes never helped struggling parents with sick children. Dipping their beaks, sucking up the juice.&lt;/p&gt;
+
+&lt;p&gt;Ahh for sure, all that will be left of Sustinet will be the bones, no juice, no meat, no insurance, no coverage. And the fat cats will be daubing their beaks with linen napkins.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

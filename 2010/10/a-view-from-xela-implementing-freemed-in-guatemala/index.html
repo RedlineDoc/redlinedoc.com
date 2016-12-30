@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width,minimum-scale=1,maximum-scale=1">
+
+  
+  
+  <link href="//fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+  <link href="//fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+  
+
+  
+  <title>A View From Xela. Implementing FreeMED in Guatemala.</title>
+
+  
+  
+  <link rel="stylesheet" href="http://redlinedoc.com/css/hugo-octopress.css">
+
+  
+  
+
+  
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+
+  
+  <link href="http://redlinedoc.com/favicon.png" rel="icon">
+
+  
+  
+  
+
+  
+
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+
+  <meta name="author" content="RedlineDoc">
+
+  
+  <meta name="generator" content="Hugo 0.17" />
+
+  
+  
+
+</head>
+<body>
+
+
+<header role="banner"><hgroup>
+  
+  <h1><a href="http://redlinedoc.com/">Redline Doc</a></h1>
+    <h2></h2>
+</hgroup></header>
+
+
+<nav role="navigation">
+
+<ul class="main-navigation">
+  
+  
+</ul>
+
+
+<ul class="subscription">
+  
+    
+        <a href="http://redlinedoc.com/index.xml" target="_blank" type="application/rss+xml" title="RSS"><i class="fa fa-rss-square fa-lg"></i></a>
+    
+  
+
+</ul>
+
+
+<form action="https://www.google.com/search" method="get" target="_blank">
+  <fieldset role="search">
+  	<input class="search" type="text" name="q" results="0" placeholder="Search"/>
+    <input type="hidden" name="q" value="site:http://redlinedoc.com/" />
+  </fieldset>
+</form>
+
+</nav>
+
+
+<div id="main">
+  <div id="content">
+    <div>
+      <article class="hentry" role="article">
+
+        
+        
+
+<header>
+    <p class="meta">Oct 12, 2010
+         - 4 minute read 
+        
+
+        
+        
+        
+            - <a class="label" href="http://redlinedoc.com/categories/accessmedcineny-in-guatemala/">AccessMedcineNY in Guatemala </a><a class="label" href="http://redlinedoc.com/categories/medicine/">Medicine </a><a class="label" href="http://redlinedoc.com/categories/sometimes-it-works/">Sometimes it works </a>
+        
+    </p>
+    <h1 class="entry-title">
+         A View From Xela. Implementing FreeMED in Guatemala. 
+    </h1>
+</header>
+
+
+        <div class="entry-content">
+          
+          
+          
+          <p><a href="http://jbuchbinder.com">Jeff</a> and I undertook implementation of <a href="http://freemedsoftware.org/org/">FreeMED</a> an Open Source Electronic Medical Record and practice management system for the <a href="http://popwujclinic.org/">Pop-Wuj Clinic</a>, a primary care, non-profit, free and open clinic in <a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;q=&amp;vps=5&amp;jsv=282d&amp;sll=37.020098,-95.625&amp;sspn=91.574054,158.027344&amp;ie=UTF8&amp;geocode=Fbxh4gAdWXyL-g&amp;split=0">Quezeltenango</a>, Guatemala. </p>
+
+<p><img src="&quot;http://farm4.static.flickr.com/3149/2907922953_b0f9bf5e0f_d.jpg" alt="A view of Santa Maria from a quiet street" /></p>
+
+<p>The clinic, founded by members of Pop-Wuj Spanish School, (<a href="http://www.pop-wuj.org/">http://www.pop-wuj.org/</a>)  a non-profit school for teaching Spanish language, and <a href="http://www.weillcornell.org/physician/jstgeorge/index.html">Dr. Jonathan St. George</a>, an emergency department physician at Weill Cornell Medical Center . Dr St. George began with a space and a concept and has with coordination with the <a href="http://www.timmyfoundation.org/">Timmy Foundation</a> staffed a regular clinic with a full time physician and assistants, recruited a part time dentist and a part time community physician to work in the clinic.</p>
+
+<p><img src="http://farm4.static.flickr.com/3027/2559182101_022b949107_d.jpg" alt="Pop Wuj Clinic on the street" /></p>
+
+<p>Students of medicine or allied fields attending Pop-Wuj Spanish Language school assist with chores and triage at the clinic in the morning and then attend their language classes in the afternoon.</p>
+
+<p>It is planned for the clinic to be self sustaining.  To derive funds, we will offer continuing medical education courses in Travel and International Medicine. the staff, all volunteer, will make the courses available, and the fees used to fund the clinic and operations.  We plan to use Open Source Training tools as a basis for online and study courses both for Pop-Wuj school and for Access Medicine, the teaching wing.  We hope to prove this funding model within three years.</p>
+
+<p>The installation of <strong>FreeMED</strong> was not without its problems. Servers donated by <a href="http://www.sgi.com">SGI/Rackable Systems </a> complemented laptops donated by Jeff&#8217;s employer helped get us off the ground. Immediate problems with infrastructure, the system wasn&#8217;t at all grounded coupled with a need for stable power, necessitated the purchase of a UPS to protect the servers.  Difficulty with the structures which are of concrete and re-bar hindered good WIFI transmissions within the building. We capitulated and wired the building for CAT5 (ish). I say “ish”, because the local wire is probably CAT3 maybe. We didn&#8217;t have any interference problems that we could pick up.</p>
+
+<p>Once hooked up, we split the system for registration, triage, physicians and pharmacy. Registration has been by hand and is transiting well to the electronic system. The intake person has good aptitude with computers and was a quick study with some help. Triage, which is really vital signs and complaint are done by visiting medical students. An immediate difficulty is that the person in this position changes sometimes several times during clinic hours. There is very little regularity and registering each of these people will create some problems. At the moment, we&#8217;re continuing to register each person in the system and privilege them as such. The suggestion, by some, that we create a group without name, is problematic from several standpoints.</p>
+
+<p>Physician training was minimal because of initial delays in deploying the system. However, I spent time with the physicians and we have enabled remote secure access so that they can use and manoeuvre through the system. For the most part, physicians are not the stumbling block.</p>
+
+<p>There is a large pharmacy and much of the medication for patients is dispensed from this bank of medications. We did not pre-enter the medications and are still working ways to get some handle on the bulk of and entry of these medications.</p>
+
+<p><img src="http://farm5.static.flickr.com/4108/5016001755_048865f4ca_z_d.jpg" alt="At the Solola outreach" /></p>
+
+<p><img src="http://farm5.static.flickr.com/4125/5016646688_31a230ceef_d.jpg" alt="Solola Clinic" /></p>
+
+<p><img src="http://farm5.static.flickr.com/4151/5016042105_cee7515d92_d.jpg" alt="Solola Clinic" /></p>
+
+<p><img src="http://farm5.static.flickr.com/4154/5016057385_895a710e3d_z_d.jpg" alt="Dentistry in the Pueblos" /></p>
+
+<p>The dental portion of <strong>FreeMED</strong> will be implemented once the medical is stable and in use. <strong>FreeMED</strong> continues to evolve. There were some specific changes made to accommodate the needs of this clinic and its staff. We hope to have some hard statistics from the program by mid year with full integration of the old (paper) medical records. The <a href="http://www.fujitsu.com">Fujitsu corporation</a> has donated scanners which will enable us to port paper records into the system.</p>
+
+<p>Once we have fully implemented <strong>FreeMED</strong> in the clinic, we hope to add Android capability to the Xela system, allowing for remote access as well as telemedicine conferencing.  The Android capability, already built into <strong>FreeMED</strong> permits recording and transcribing of teleconferences directly to the medical record. Other Android features are planned. <strong>FreeMED</strong> does work seamlessly to provide access by Android to appointment and other portions of the system including the internal messaging system.  There are other anticipated donations of medical equipment including monitors to the clinic. Those too are planned to be integrated using the SHIM portion of <strong>FreeMED.</strong></p>
+
+<p><strong>FreeMED</strong> is an opensource GPL-licensed product, in use worldwide. <strong>FreeMED</strong> recently announced the release of the 0.9.0 beta version. More information is available through the <a href="http://www.freemedsoftware.org">FreeMED website</a>.</p>
+
+<p>If you are interested in helping with the clinic either by donation of time, energy,  equipment or monies, please contact donations at popwujclinic dot org    Another trip to the clinic is planned for May. If you have an interest in international or travel medicine and wish to contribute by taking the offered courses and /or <a href="http://www.popwujclinic.org/">contribute expertise contact</a>.</p>
+
+        </div>
+        
+
+<footer>
+  <p class="meta">
+    <span class="byline author vcard">Posted by <span class="fn">RedlineDoc</span></span>
+    
+    <time>Oct 12, 2010</time>
+    
+      <span class="categories">
+        Tags:
+        
+          <a class="category" href="http://redlinedoc.com/tags/electronic-medical-record">Electronic Medical Record</a>  <a class="category" href="http://redlinedoc.com/tags/emr">EMR</a>  <a class="category" href="http://redlinedoc.com/tags/fairness">fairness</a>  <a class="category" href="http://redlinedoc.com/tags/fqhc">FQHC</a>  <a class="category" href="http://redlinedoc.com/tags/gpl">GPL</a>  <a class="category" href="http://redlinedoc.com/tags/guatemala">Guatemala</a>  <a class="category" href="http://redlinedoc.com/tags/mayan">Mayan</a>  <a class="category" href="http://redlinedoc.com/tags/mysql">MySQL</a>  <a class="category" href="http://redlinedoc.com/tags/open-source">Open Source</a>  <a class="category" href="http://redlinedoc.com/tags/poor">poor</a>  <a class="category" href="http://redlinedoc.com/tags/pop-wuj">Pop-Wuj</a>  <a class="category" href="http://redlinedoc.com/tags/poverty">poverty</a>  <a class="category" href="http://redlinedoc.com/tags/rackable">Rackable</a>  <a class="category" href="http://redlinedoc.com/tags/risk">risk</a>  <a class="category" href="http://redlinedoc.com/tags/spanish">Spanish</a>  <a class="category" href="http://redlinedoc.com/tags/spanish-language">Spanish Language</a>  <a class="category" href="http://redlinedoc.com/tags/spanish-language-learning">Spanish Language Learning</a>  <a class="category" href="http://redlinedoc.com/tags/vulnerable">vulnerable</a>  <a class="category" href="http://redlinedoc.com/tags/weill-cornell">Weill Cornell</a>  <a class="category" href="http://redlinedoc.com/tags/xela">Xela</a>  
+    
+    </span>
+  </p>
+
+  
+  
+
+  
+
+  <p class="meta">
+    
+        <a class="basic-alignment left" href="http://redlinedoc.com/2010/10/real-health-care-in-the-trenches/" title="REAL Health care -- in the trenches.">REAL Health care -- in the trenches.</a>
+    
+
+    
+      <a class="basic-alignment right" href="http://redlinedoc.com/2011/06/sucking-the-marrow/" title="Sucking the marrow">Sucking the marrow</a>
+    
+  </p>
+  
+    
+      <div id="disqus_thread"></div>
+<script type="text/javascript">
+
+(function() {
+    
+    
+    
+    
+
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    var disqus_shortname = '';
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com/" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+    
+  
+</footer>
+
+      </article>
+    </div>
+    
+
+<aside class="sidebar thirds">
+  <section class="first odd">
+
+    
+
+    <p>
+      
+    </p>
+  </section>
+
+
+
+  
+  <ul class="sidebar-nav">
+    <li class="sidebar-nav-item">
+      
+      
+      
+      
+       
+      
+      
+      
+      
+      
+      
+
+    
+    
+    </li>
+  </ul>
+
+  
+
+  
+
+  
+  
+  
+
+</aside>
+
+  </div>
+</div>
+
+<footer role="contentinfo">
+  <p>Copyright &copy; 2016 RedlineDoc - <a href="http://redlinedoc.com/license/">License</a> -
+  <span class="credit">Powered by <a target="_blank" href="https://gohugo.io">Hugo</a> and <a target="_blank" href="https://github.com/parsiya/hugo-octopress/">Hugo-Octopress</a> theme.
+</p>
+
+</footer>
+
+
+</body>
+</html>
+
